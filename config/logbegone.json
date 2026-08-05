@@ -1,0 +1,13 @@
+{
+  "logbegone": {
+    "phrases": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+      "GL_INVALID_OPERATION in glBlitFramebuffer(depth attachment format mismatch)"
+    ],
+    "regex": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels "
+    ]
+  }
+}

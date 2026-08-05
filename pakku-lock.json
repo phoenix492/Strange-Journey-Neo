@@ -9947,6 +9947,67 @@
             ]
         },
         {
+            "pakku_id": "k9ap4EQeuILM9Qv1",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "log-begone",
+                "modrinth": "log-begone"
+            },
+            "name": {
+                "curseforge": "Log Begone",
+                "modrinth": "Log Begone"
+            },
+            "id": {
+                "curseforge": "623560",
+                "modrinth": "9ON3zv6e"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "logbegone-neoforge-1.21.1-1.0.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5609/9/logbegone-neoforge-1.21.1-1.0.3.jar",
+                    "id": "5609009",
+                    "parent_id": "623560",
+                    "hashes": {
+                        "sha1": "ee401552a031798993fffb7c9761742bdf6789e8",
+                        "md5": "bcb679479b36762c5d98ba06479842a2"
+                    },
+                    "required_dependencies": [],
+                    "size": 73237,
+                    "date_published": "2024-08-08T19:57:12.787Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "logbegone-neoforge-1.21.1-1.0.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9ON3zv6e/versions/1OrkaiPD/logbegone-neoforge-1.21.1-1.0.3.jar",
+                    "id": "1OrkaiPD",
+                    "parent_id": "9ON3zv6e",
+                    "hashes": {
+                        "sha512": "5908033aa96432ff55b9d81bd010172e353997312537f82c25b2ddf4767e8dc0100469cefc7513cf1542a919c79f090f7c74e5f29ccd788422231914335d047d",
+                        "sha1": "ee401552a031798993fffb7c9761742bdf6789e8"
+                    },
+                    "required_dependencies": [],
+                    "size": 73237,
+                    "date_published": "2024-08-08T19:57:12.745457Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "mURSnRw514NdO99m",
             "type": "MOD",
             "side": "BOTH",
