@@ -6696,6 +6696,67 @@
             ]
         },
         {
+            "pakku_id": "Tko3kyJp7SHaU1Lr",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "exposure",
+                "modrinth": "exposure"
+            },
+            "name": {
+                "curseforge": "Exposure",
+                "modrinth": "Exposure"
+            },
+            "id": {
+                "curseforge": "871755",
+                "modrinth": "hB899VmG"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "exposure-neoforge-1.21.1-1.9.18.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8223/555/exposure-neoforge-1.21.1-1.9.18.jar",
+                    "id": "8223555",
+                    "parent_id": "871755",
+                    "hashes": {
+                        "sha1": "c37fe23cb482e9b3716ff5439defd4c84e2615ee",
+                        "md5": "e927ea94d0dc436bd21dd86420eacc40"
+                    },
+                    "required_dependencies": [],
+                    "size": 2192415,
+                    "date_published": "2026-06-09T21:07:47.300Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "exposure-neoforge-1.21.1-1.9.18.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hB899VmG/versions/KZR7AUbh/exposure-neoforge-1.21.1-1.9.18.jar",
+                    "id": "KZR7AUbh",
+                    "parent_id": "hB899VmG",
+                    "hashes": {
+                        "sha512": "2c0310cfbc9abfcf9e589fdf1079829253e47eb3ac84684a643951ebc432536a4e6f6567a67fc8ba4f4d55036e513804ff0996adee6a8a11cf59c76399de5ef6",
+                        "sha1": "c37fe23cb482e9b3716ff5439defd4c84e2615ee"
+                    },
+                    "required_dependencies": [],
+                    "size": 2192415,
+                    "date_published": "2026-06-09T21:07:48.001214Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "64h4yLCWHemSd9vU",
             "type": "MOD",
             "side": "BOTH",
@@ -7049,6 +7110,74 @@
                     "required_dependencies": [],
                     "size": 121559,
                     "date_published": "2026-01-25T12:59:44.447Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "GGLC4C6tUkNRUYSe",
+            "pakku_links": [
+                "dJG4lAuPIXxII9VZ"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "forbidden-arcanus",
+                "modrinth": "forbidden-arcanus"
+            },
+            "name": {
+                "curseforge": "Forbidden and Arcanus",
+                "modrinth": "Forbidden and Arcanus "
+            },
+            "id": {
+                "curseforge": "309858",
+                "modrinth": "MdlnLS7Q"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "forbidden_arcanus-2.6.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6875/895/forbidden_arcanus-2.6.1.jar",
+                    "id": "6875895",
+                    "parent_id": "309858",
+                    "hashes": {
+                        "sha1": "1de105be68b88de87a5e6749f320c790d550c120",
+                        "md5": "16e529d8b3e3de0d2d0343c601704c69"
+                    },
+                    "required_dependencies": [
+                        "416935"
+                    ],
+                    "size": 3402083,
+                    "date_published": "2025-08-11T18:45:07.660Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "forbidden_arcanus-2.6.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MdlnLS7Q/versions/fNjxgZPH/forbidden_arcanus-2.6.1.jar",
+                    "id": "fNjxgZPH",
+                    "parent_id": "MdlnLS7Q",
+                    "hashes": {
+                        "sha512": "012a1d5c779a0173a5c76ea79f429486753f040dfe59739bc45fd0817182d705a80110032f024757f0ac51a9bd10c546a11a730899aa9adbf7251a5040472724",
+                        "sha1": "1de105be68b88de87a5e6749f320c790d550c120"
+                    },
+                    "required_dependencies": [
+                        "HsdNFinx"
+                    ],
+                    "size": 3402083,
+                    "date_published": "2025-08-11T18:54:38.052203Z"
                 }
             ]
         },
@@ -7903,6 +8032,77 @@
             ]
         },
         {
+            "pakku_id": "PjWbTA5VGuQEfXiS",
+            "pakku_links": [
+                "hM6xwMLPv6WuEnDt",
+                "uCmYqURXJNaz9Wxb"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "hexalia",
+                "modrinth": "hexalia"
+            },
+            "name": {
+                "curseforge": "Hexalia",
+                "modrinth": "Hexalia"
+            },
+            "id": {
+                "curseforge": "962878",
+                "modrinth": "bkz5C0dQ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "hexalia-1.3.4-1.21.1+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8384/805/hexalia-1.3.4-1.21.1+neoforge.jar",
+                    "id": "8384805",
+                    "parent_id": "962878",
+                    "hashes": {
+                        "sha1": "a6d896e7bb236c7d9219d00c2f6076e57fc57c1e",
+                        "md5": "3875af75c0f7e777954f387f1ef3515d"
+                    },
+                    "required_dependencies": [
+                        "419699",
+                        "388172"
+                    ],
+                    "size": 1722323,
+                    "date_published": "2026-07-07T02:55:49.917Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "hexalia-1.3.4-1.21.1+neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/bkz5C0dQ/versions/RUnmHrqD/hexalia-1.3.4-1.21.1+neoforge.jar",
+                    "id": "RUnmHrqD",
+                    "parent_id": "bkz5C0dQ",
+                    "hashes": {
+                        "sha512": "fea90469c1aa212624505e354deff35816b5f2799676dc29ac62bf21d2a5943bdbad439a1c5870d6a78bb9ec43c4c507d583e1a935744d94b492c67063dc0920",
+                        "sha1": "a6d896e7bb236c7d9219d00c2f6076e57fc57c1e"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ",
+                        "8BmcQJ2H"
+                    ],
+                    "size": 1722323,
+                    "date_published": "2026-07-07T03:00:16.673401Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Y5EySkMJM68rfDbT",
             "type": "MOD",
             "side": "BOTH",
@@ -8207,6 +8407,74 @@
                     "required_dependencies": [],
                     "size": 14232121,
                     "date_published": "2025-07-05T15:42:00.557Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "dBRyk6VINewNgXJA",
+            "pakku_links": [
+                "PcmnysgtePpudoBe"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "immersive-paintings",
+                "modrinth": "immersive-paintings"
+            },
+            "name": {
+                "curseforge": "Immersive Paintings",
+                "modrinth": "Immersive Paintings"
+            },
+            "id": {
+                "curseforge": "639584",
+                "modrinth": "6txNkua3"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8194/870/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+                    "id": "8194870",
+                    "parent_id": "639584",
+                    "hashes": {
+                        "sha1": "2a8ddb25e4206f3ca11fdffec3bdbde1ff1e6ae8",
+                        "md5": "a857d42037e6afbc0ad03a0b744ba7f5"
+                    },
+                    "required_dependencies": [
+                        "1005914"
+                    ],
+                    "size": 5500916,
+                    "date_published": "2026-06-04T08:46:55.250Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6txNkua3/versions/DeOfrXC3/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+                    "id": "DeOfrXC3",
+                    "parent_id": "6txNkua3",
+                    "hashes": {
+                        "sha512": "f08e759ab6bbdd8b2d00ae3e1cc7044dfe3efa86d34fbbf7553d097ad1be358818d6569902b122cff2654c3a0942eb1a7406cf17ca537386b7d382aa8454b326",
+                        "sha1": "2a8ddb25e4206f3ca11fdffec3bdbde1ff1e6ae8"
+                    },
+                    "required_dependencies": [
+                        "hYykXjDp"
+                    ],
+                    "size": 5500916,
+                    "date_published": "2026-06-04T08:46:57.747477Z"
                 }
             ]
         },
@@ -14762,6 +15030,67 @@
                     "required_dependencies": [],
                     "size": 847732,
                     "date_published": "2026-04-29T05:59:43.718156Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "dJG4lAuPIXxII9VZ",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "valhelsia-core",
+                "modrinth": "valhelsia-core"
+            },
+            "name": {
+                "curseforge": "Valhelsia Core",
+                "modrinth": "Valhelsia Core"
+            },
+            "id": {
+                "curseforge": "416935",
+                "modrinth": "HsdNFinx"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "valhelsia_core-neoforge-1.21.1-1.1.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6296/775/valhelsia_core-neoforge-1.21.1-1.1.5.jar",
+                    "id": "6296775",
+                    "parent_id": "416935",
+                    "hashes": {
+                        "sha1": "e7498e89bd7347c6d0f4411f55bd312490dfe814",
+                        "md5": "fa4e50fc4d817c0f9de04d1e8d2418d4"
+                    },
+                    "required_dependencies": [],
+                    "size": 181277,
+                    "date_published": "2025-03-12T17:29:00.170Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "valhelsia_core-neoforge-1.21.1-1.1.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/HsdNFinx/versions/cttRekq9/valhelsia_core-neoforge-1.21.1-1.1.4.jar",
+                    "id": "cttRekq9",
+                    "parent_id": "HsdNFinx",
+                    "hashes": {
+                        "sha512": "787de5659b46ddb188e2960582cb236255e8e4c2dc6d3bfdd033ab1c00bbf61351a38a4f8a9d47035e03f662c982a952c676e6474e6ad9d3dc5815a3c0df2d95",
+                        "sha1": "018cfbf150953b9f23923e6d6c760f102583b28f"
+                    },
+                    "required_dependencies": [],
+                    "size": 181220,
+                    "date_published": "2024-10-26T12:13:07.393778Z"
                 }
             ]
         },

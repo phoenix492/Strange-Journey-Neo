@@ -123,6 +123,10 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
   "enderio": {
     "soul_bound": true
   },

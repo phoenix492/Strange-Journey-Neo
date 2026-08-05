@@ -110,6 +110,9 @@
 			otherstone = true
 			otherrock = true
 
+		[types.stone_type.forbidden_arcanus]
+			darkstone = true
+
 		[types.mud_type.deep_aether]
 			aether_mud = true
 
@@ -277,6 +280,15 @@
 
 		[types.wood_type.betterarcheology]
 			rotten = true
+
+		[types.wood_type.forbidden_arcanus]
+			fungyss = true
+			aurum = true
+			edelwood = true
+
+		[types.wood_type.hexalia]
+			cottonwood = true
+			willow = true
 
 		[types.leaves_type.aether]
 			skyroot = true
@@ -523,6 +535,14 @@
 
 		[types.leaves_type.occultism]
 			otherworld = true
+
+		[types.leaves_type.forbidden_arcanus]
+			aurum = true
+			nuggety_aurum = true
+
+		[types.leaves_type.hexalia]
+			cottonwood = true
+			willow = true
 
 		[entries.stone_type.create]
 			cut_wall = true
