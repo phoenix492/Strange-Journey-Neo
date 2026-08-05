@@ -1542,7 +1542,7 @@
 	Camera = true
 	"Chest Searching" = true
 	"Elytra Indicator" = true
-	"Greener Grass" = true
+	"Greener Grass" = false
 	"Improved Tooltips" = true
 	"Long Range Pick Block" = true
 	"Microcrafting Helper" = true
@@ -1658,7 +1658,7 @@
 	#Big Stone Clusters for Granite, Diorite, and Andesite, like Quark pre-1.18
 	"Vanilla Stone Clusters" = false
 	#Allows placing variant blocks automatically via a selector menu triggered from a keybind
-	"Variant Selector" = false
+	"Variant Selector" = true
 	"Villager Rerolling Rework" = false
 
 	[experimental.adjustable_chat]
