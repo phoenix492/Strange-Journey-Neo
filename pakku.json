@@ -1,0 +1,7 @@
+{
+    "name": "Strange Journey Neo",
+    "version": "0.0.1",
+    "overrides": [
+        "config"
+    ]
+}

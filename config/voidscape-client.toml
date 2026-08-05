@@ -1,0 +1,8 @@
+#Settings for players who have donated or contributed to the Mod's development
+[donatorSettings]
+	#Enables the Donator perk wing render
+	enable = true
+	#Changes the Donator Wing Render Color, Format: RRGGBB Hex
+	# Default: 16753898
+	# Range: > -2147483648
+	color = 16753898
