@@ -13591,6 +13591,67 @@
             ]
         },
         {
+            "pakku_id": "aY8XP9GCUJyEgcaT",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "tropicraft",
+                "modrinth": "tropicraft"
+            },
+            "name": {
+                "curseforge": "Tropicraft",
+                "modrinth": "Tropicraft"
+            },
+            "id": {
+                "curseforge": "254794",
+                "modrinth": "20zpzIT1"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Tropicraft-9.8.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6600/109/Tropicraft-9.8.1.jar",
+                    "id": "6600109",
+                    "parent_id": "254794",
+                    "hashes": {
+                        "sha1": "9ecbd957f3c5fe0adfd4f3f533700ae57cba8720",
+                        "md5": "f2b5fdf3525fa218cfce4b131f2b74d9"
+                    },
+                    "required_dependencies": [],
+                    "size": 19480844,
+                    "date_published": "2025-05-31T03:10:05.827Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Tropicraft-9.8.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/20zpzIT1/versions/20oDt9Q4/Tropicraft-9.8.1.jar",
+                    "id": "20oDt9Q4",
+                    "parent_id": "20zpzIT1",
+                    "hashes": {
+                        "sha512": "b3c8ed1b2988718016d4a99610824a45d5df536ec0b4f697d44672f2898e15150997950df06fe2dac6cc11d5c99aa9c2e0b1a56c0a37c5360b2448e9a28fdb6c",
+                        "sha1": "9ecbd957f3c5fe0adfd4f3f533700ae57cba8720"
+                    },
+                    "required_dependencies": [],
+                    "size": 19480844,
+                    "date_published": "2025-05-31T03:10:09.865728Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "dDn6Jx9ERqJPvRbc",
             "pakku_links": [
                 "7Mn4CZJ7buMzI4px"

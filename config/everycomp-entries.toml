@@ -267,6 +267,10 @@
 			walnut = true
 			blue_spruce = true
 
+		[types.wood_type.tropicraft]
+			mahogany = true
+			palm = true
+
 		[types.leaves_type.aether]
 			skyroot = true
 			golden_oak = true
@@ -488,6 +492,28 @@
 			walnut = true
 			blue_spruce = true
 
+		[types.leaves_type.tropicraft]
+			mahogany = true
+			palm = true
+			kapok = true
+			fruit = true
+			grapefruit = true
+			lemon = true
+			lime = true
+			orange = true
+			papaya = true
+			white_flowering = true
+			red_flowering = true
+			blue_flowering = true
+			purple_flowering = true
+			yellow_flowering = true
+			plantain = true
+			jocote = true
+			red_mangrove = true
+			tall_mangrove = true
+			tea_mangrove = true
+			black_mangrove = true
+
 		[entries.stone_type.create]
 			cut_wall = true
 			small_bricks = true
@@ -562,6 +588,9 @@
 			palisade = true
 			beam = true
 			support = true
+
+		[entries.wood_type.tropicraft]
+			boardwalk = true
 
 		[entries.leaves_type.quark]
 			hedge = true
