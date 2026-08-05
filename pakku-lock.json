@@ -1464,6 +1464,42 @@
             ]
         },
         {
+            "pakku_id": "dhO8EJUR2fvR2v8y",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "better-advanced-tooltips"
+            },
+            "name": {
+                "curseforge": "Better Advanced Tooltips"
+            },
+            "id": {
+                "curseforge": "1637623"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "better-advanced-tooltips-2101.1.0-build.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8576/77/better-advanced-tooltips-2101.1.0-build.5.jar",
+                    "id": "8576077",
+                    "parent_id": "1637623",
+                    "hashes": {
+                        "sha1": "5b73537b908764f2d3fd593a0f56a8b1b034bc50",
+                        "md5": "edf97f2f11f57fffb4ed6d71c7b4508a"
+                    },
+                    "required_dependencies": [],
+                    "size": 37653,
+                    "date_published": "2026-08-04T14:10:10.520Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "zoRJ6fZ4XtXNi9yR",
             "pakku_links": [
                 "viY4V476CgnvAvHG"
@@ -4786,6 +4822,67 @@
                     "required_dependencies": [],
                     "size": 536554,
                     "date_published": "2026-05-04T16:53:25.692041Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ULQybbunPZL5c7Eu",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "decorative-blocks-reborn",
+                "modrinth": "decorative-blocks-reborn"
+            },
+            "name": {
+                "curseforge": "Decorative Blocks Reborn",
+                "modrinth": "Decorative Blocks Reborn"
+            },
+            "id": {
+                "curseforge": "1327768",
+                "modrinth": "hNxmWV9g"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DecorativeBlocks-Reborn-neoforge-1.21.1-6.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7926/194/DecorativeBlocks-Reborn-neoforge-1.21.1-6.0.2.jar",
+                    "id": "7926194",
+                    "parent_id": "1327768",
+                    "hashes": {
+                        "sha1": "d5f8afffd14aa5b32ae607967f04c772a763267b",
+                        "md5": "5655077df6a83917f5ebd382b3e5885e"
+                    },
+                    "required_dependencies": [],
+                    "size": 432992,
+                    "date_published": "2026-04-14T15:19:43.293Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "DecorativeBlocks-Reborn-neoforge-1.21.1-6.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hNxmWV9g/versions/NZT1mU70/DecorativeBlocks-Reborn-neoforge-1.21.1-6.0.2.jar",
+                    "id": "NZT1mU70",
+                    "parent_id": "hNxmWV9g",
+                    "hashes": {
+                        "sha512": "bfd4d6e5cca18805039265e8c655933061a25fb7d029f5714b4b658582b3a2416224003403bfd7fc75d103b1c6b23a45662c794c6c8c37f77dbc85473095f68c",
+                        "sha1": "d5f8afffd14aa5b32ae607967f04c772a763267b"
+                    },
+                    "required_dependencies": [],
+                    "size": 432992,
+                    "date_published": "2026-04-14T15:20:00.139849Z"
                 }
             ]
         },

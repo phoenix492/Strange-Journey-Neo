@@ -731,6 +731,12 @@
 			bookshelf = true
 			chiseled_bookshelf = true
 
+		[entries.wood_type.decorative_blocks]
+			seat = true
+			palisade = true
+			beam = true
+			support = true
+
 		[entries.leaves_type.chipped]
 			magenta_flower_leaves = true
 			golden_leaves = true
