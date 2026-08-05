@@ -377,7 +377,7 @@
 	radiation_badge_info_rate = 0.1
 
 [misc]
-	give_guidebook = true
+	give_guidebook = false
 	ctrl_info = false
 	rare_drops = false
 	dungeon_loot = false
