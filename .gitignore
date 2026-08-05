@@ -37,3 +37,4 @@
 /config/spark/tmp/
 /config/spark/tmp-client/
 /usercache.json
+/usernamecache.json

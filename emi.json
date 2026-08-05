@@ -1,0 +1,21 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:unify:nickel_ingot",
+    "item:unify:brass_sheet",
+    "item:unify:raw_platinum",
+    "item:unify:raw_tin",
+    "item:unify:raw_platinum_block",
+    "item:createbigcannons:cast_iron_ingot",
+    "#item:c:ingots/cast_iron",
+    "item:unify:cast_iron_ingot"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
