@@ -3135,6 +3135,74 @@
             ]
         },
         {
+            "pakku_id": "fm6mr9JskyzgFktv",
+            "pakku_links": [
+                "SGGndCLdub6PsVqd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "common-capabilities",
+                "modrinth": "common-capabilities"
+            },
+            "name": {
+                "curseforge": "Common Capabilities",
+                "modrinth": "Common Capabilities"
+            },
+            "id": {
+                "curseforge": "247007",
+                "modrinth": "oFXrCkDI"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "commoncapabilities-1.21.1-neoforge-2.11.5-363.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8469/575/commoncapabilities-1.21.1-neoforge-2.11.5-363.jar",
+                    "id": "8469575",
+                    "parent_id": "247007",
+                    "hashes": {
+                        "sha1": "fc230d636bf91fda3b3fc4697794677323bfa5b7",
+                        "md5": "2752ef2f352e89dbf4316e705f4d4340"
+                    },
+                    "required_dependencies": [
+                        "232758"
+                    ],
+                    "size": 283956,
+                    "date_published": "2026-07-20T04:56:46.103Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "commoncapabilities-1.21.1-neoforge-2.11.5-363.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/oFXrCkDI/versions/TOl9njea/commoncapabilities-1.21.1-neoforge-2.11.5-363.jar",
+                    "id": "TOl9njea",
+                    "parent_id": "oFXrCkDI",
+                    "hashes": {
+                        "sha512": "ae852dc5d7b5857e3be4c8c7fd5fcdd4e4fda8f649747315e1d78528becadfeaa01856acedafedb400eb4ca2a3f39d8c85e839e8606e0ba535cbba2bd8030b1e",
+                        "sha1": "34c238095feeee874b0f6485da331c304b59e12b"
+                    },
+                    "required_dependencies": [
+                        "Z9DM0LJ4"
+                    ],
+                    "size": 283956,
+                    "date_published": "2026-07-20T04:57:05.119163Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "UyxBSXMZJk9CA7Gm",
             "pakku_links": [
                 "79DhlUrz5gPh7AtD"
@@ -5159,6 +5227,67 @@
                     "required_dependencies": [],
                     "size": 49610,
                     "date_published": "2024-10-04T13:55:51.182674Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "SGGndCLdub6PsVqd",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cyclops-core",
+                "modrinth": "cyclops-core"
+            },
+            "name": {
+                "curseforge": "Cyclops Core",
+                "modrinth": "Cyclops Core"
+            },
+            "id": {
+                "curseforge": "232758",
+                "modrinth": "Z9DM0LJ4"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cyclopscore-1.21.1-neoforge-1.29.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8527/422/cyclopscore-1.21.1-neoforge-1.29.2.jar",
+                    "id": "8527422",
+                    "parent_id": "232758",
+                    "hashes": {
+                        "sha1": "950e5ffb1d01fcca26afb698d37aa46e1e894fa9",
+                        "md5": "4f337b4d05ba2d7a44661b80ef33efe8"
+                    },
+                    "required_dependencies": [],
+                    "size": 1161287,
+                    "date_published": "2026-07-28T15:08:49.637Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cyclopscore-1.21.1-neoforge-1.29.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/SrkjfA2l/cyclopscore-1.21.1-neoforge-1.29.2.jar",
+                    "id": "SrkjfA2l",
+                    "parent_id": "Z9DM0LJ4",
+                    "hashes": {
+                        "sha512": "c897904efd7b3c68ce8284010fee8f83b581a9a93876f4f78624058673f706157394accb87f5a220e14e1ceb96dde4404533c388388d5546efd22a12320f30df",
+                        "sha1": "d5c82b440c700b6937a0ab02823807b3dfc9c159"
+                    },
+                    "required_dependencies": [],
+                    "size": 1161287,
+                    "date_published": "2026-07-28T15:09:30.914016Z"
                 }
             ]
         },
@@ -8540,6 +8669,366 @@
                     ],
                     "size": 485596,
                     "date_published": "2026-03-04T14:20:35.792372Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "npzcii5e7xrfBdFS",
+            "pakku_links": [
+                "VrgxsZaCeqWjakU5"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "industrial-foregoing",
+                "modrinth": "industrial-foregoing"
+            },
+            "name": {
+                "curseforge": "Industrial Foregoing",
+                "modrinth": "Industrial Foregoing"
+            },
+            "id": {
+                "curseforge": "266515",
+                "modrinth": "lWxpUd04"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "industrialforegoing-1.21-3.6.39.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8370/717/industrialforegoing-1.21-3.6.39.jar",
+                    "id": "8370717",
+                    "parent_id": "266515",
+                    "hashes": {
+                        "sha1": "a653f5c2b56f51c82d008b473f2b89aeff5747fd",
+                        "md5": "a3e9772781d893c04ae93f17d1e442e2"
+                    },
+                    "required_dependencies": [
+                        "287342"
+                    ],
+                    "size": 4717149,
+                    "date_published": "2026-07-04T18:27:31.923Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "industrialforegoing-1.21-3.6.39.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/lWxpUd04/versions/7otXKx1D/industrialforegoing-1.21-3.6.39.jar",
+                    "id": "7otXKx1D",
+                    "parent_id": "lWxpUd04",
+                    "hashes": {
+                        "sha512": "a8a52f0e79fe019d8b77cc50a8b04b36d5532c92f75dff51bc528e70fb23eb67f8a9bfd37551cf91636027086f0af4f3010cb07f1903b20fc31b4d11cb3e2a02",
+                        "sha1": "a653f5c2b56f51c82d008b473f2b89aeff5747fd"
+                    },
+                    "required_dependencies": [
+                        "1Ro7m06l"
+                    ],
+                    "size": 4717149,
+                    "date_published": "2026-07-04T18:27:38.806806Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "6dQdrQlXBrRraVlX",
+            "pakku_links": [
+                "aB7PyBJRVjCAbmdc",
+                "SGGndCLdub6PsVqd",
+                "KuxXxD7srwvSJXXg"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "integrated-crafting",
+                "modrinth": "integrated-crafting"
+            },
+            "name": {
+                "curseforge": "Integrated Crafting",
+                "modrinth": " Integrated Crafting"
+            },
+            "id": {
+                "curseforge": "287357",
+                "modrinth": "qwpACdla"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "integratedcrafting-1.21.1-neoforge-1.4.6-605.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8533/575/integratedcrafting-1.21.1-neoforge-1.4.6-605.jar",
+                    "id": "8533575",
+                    "parent_id": "287357",
+                    "hashes": {
+                        "sha1": "a5dbcb3082b060d9316f4b1b90f1a2988fae5274",
+                        "md5": "1ca53755caae1bbf6332d524cdafd7b9"
+                    },
+                    "required_dependencies": [
+                        "236307",
+                        "232758",
+                        "251389"
+                    ],
+                    "size": 377591,
+                    "date_published": "2026-07-29T13:14:36.603Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "integratedcrafting-1.21.1-neoforge-1.4.6-605.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/qwpACdla/versions/m1UH23s4/integratedcrafting-1.21.1-neoforge-1.4.6-605.jar",
+                    "id": "m1UH23s4",
+                    "parent_id": "qwpACdla",
+                    "hashes": {
+                        "sha512": "d6a8da33b4483fdabc765f96a34b90ac558b10c5662d67f9b8fb5b19ea54e99da309551de58e6734c85920bbd7b953f7d0c416d508ef79ed21554763e1d70ac5",
+                        "sha1": "ebf7d78f54cab9f85d9eb6b883a69aacce97a295"
+                    },
+                    "required_dependencies": [
+                        "Etqy1Omb",
+                        "yYzdQHJI",
+                        "Z9DM0LJ4"
+                    ],
+                    "size": 377590,
+                    "date_published": "2026-07-29T13:14:57.387230Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "aB7PyBJRVjCAbmdc",
+            "pakku_links": [
+                "fm6mr9JskyzgFktv",
+                "SGGndCLdub6PsVqd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "integrated-dynamics",
+                "modrinth": "integrated-dynamics"
+            },
+            "name": {
+                "curseforge": "Integrated Dynamics",
+                "modrinth": "Integrated Dynamics"
+            },
+            "id": {
+                "curseforge": "236307",
+                "modrinth": "yYzdQHJI"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "integrateddynamics-1.21.1-neoforge-1.34.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8563/258/integrateddynamics-1.21.1-neoforge-1.34.0.jar",
+                    "id": "8563258",
+                    "parent_id": "236307",
+                    "hashes": {
+                        "sha1": "b80f89484a31d8ebbc90ba8a7d46dbd18797ce09",
+                        "md5": "8fc8f3507295e501698af497f4b86c7d"
+                    },
+                    "required_dependencies": [
+                        "247007",
+                        "232758"
+                    ],
+                    "size": 4369336,
+                    "date_published": "2026-08-02T17:49:31.557Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "integrateddynamics-1.21.1-neoforge-1.34.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yYzdQHJI/versions/qB7fUitH/integrateddynamics-1.21.1-neoforge-1.34.0.jar",
+                    "id": "qB7fUitH",
+                    "parent_id": "yYzdQHJI",
+                    "hashes": {
+                        "sha512": "513e17cde517f91fb6959cacbbf366bbdf339b1d050fb2455dd5a8065fdf5257f1e2b7ab1d1f379836602923022a4051efa96522cccbdcd28af12d8c2f7b25aa",
+                        "sha1": "b53607c36b528194a6fdaa01429bfd178cee4f66"
+                    },
+                    "required_dependencies": [
+                        "Z9DM0LJ4",
+                        "oFXrCkDI"
+                    ],
+                    "size": 4369335,
+                    "date_published": "2026-08-02T17:49:58.857015Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jWSItP3N8F9gYVeJ",
+            "pakku_links": [
+                "aB7PyBJRVjCAbmdc",
+                "KuxXxD7srwvSJXXg",
+                "SGGndCLdub6PsVqd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "integrated-terminals",
+                "modrinth": "integrated-terminals"
+            },
+            "name": {
+                "curseforge": "Integrated Terminals",
+                "modrinth": "Integrated Terminals"
+            },
+            "id": {
+                "curseforge": "295910",
+                "modrinth": "HmLJoQ1K"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "integratedterminals-1.21.1-neoforge-1.7.0-800.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8533/11/integratedterminals-1.21.1-neoforge-1.7.0-800.jar",
+                    "id": "8533011",
+                    "parent_id": "295910",
+                    "hashes": {
+                        "sha1": "a2dd0417112f479115f3c0af73fa45f5aa53e713",
+                        "md5": "00d0061a515fabcf87e08281f67b88ef"
+                    },
+                    "required_dependencies": [
+                        "236307",
+                        "251389",
+                        "232758"
+                    ],
+                    "size": 662663,
+                    "date_published": "2026-07-29T11:16:20.043Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "integratedterminals-1.21.1-neoforge-1.7.0-800.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/HmLJoQ1K/versions/O0yNFhtE/integratedterminals-1.21.1-neoforge-1.7.0-800.jar",
+                    "id": "O0yNFhtE",
+                    "parent_id": "HmLJoQ1K",
+                    "hashes": {
+                        "sha512": "a6fb0b0ef603317b394a38d3674299550e86de6da94088b9f5c5eebc71da2342a18cd3b80254c6b5824f1fa74b9a78f05c79abfd845e08f6b9ef0c0e46e6b388",
+                        "sha1": "16b97006777fba70a33250a5db39b3ece7ec3e65"
+                    },
+                    "required_dependencies": [
+                        "Z9DM0LJ4",
+                        "yYzdQHJI",
+                        "Etqy1Omb"
+                    ],
+                    "size": 662663,
+                    "date_published": "2026-07-29T11:16:39.324032Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "KuxXxD7srwvSJXXg",
+            "pakku_links": [
+                "SGGndCLdub6PsVqd",
+                "aB7PyBJRVjCAbmdc"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "integrated-tunnels",
+                "modrinth": "integrated-tunnels"
+            },
+            "name": {
+                "curseforge": "Integrated Tunnels",
+                "modrinth": "Integrated Tunnels"
+            },
+            "id": {
+                "curseforge": "251389",
+                "modrinth": "Etqy1Omb"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "integratedtunnels-1.21.1-neoforge-1.9.4-670.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8575/722/integratedtunnels-1.21.1-neoforge-1.9.4-670.jar",
+                    "id": "8575722",
+                    "parent_id": "251389",
+                    "hashes": {
+                        "sha1": "f3c9ac0a7c5e1da0c8194f63370a7e8b0e336e49",
+                        "md5": "026fb8b2c5eab6d9d891dc889c46ff78"
+                    },
+                    "required_dependencies": [
+                        "232758",
+                        "236307"
+                    ],
+                    "size": 684720,
+                    "date_published": "2026-08-04T13:14:16.393Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "integratedtunnels-1.21.1-neoforge-1.9.4-670.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/Etqy1Omb/versions/GV0GT3Zz/integratedtunnels-1.21.1-neoforge-1.9.4-670.jar",
+                    "id": "GV0GT3Zz",
+                    "parent_id": "Etqy1Omb",
+                    "hashes": {
+                        "sha512": "f94c95f9c79d59e4661008bf12f1b1d5a66866141df4166ebd15092911485dd013bb7260fbe3bca6ed13a336ce3e92329ac728b2986f6e4258eed81dbc3071d1",
+                        "sha1": "4632cb2cdb7e2d07cc39243503bed7e951310ee1"
+                    },
+                    "required_dependencies": [
+                        "yYzdQHJI",
+                        "Z9DM0LJ4"
+                    ],
+                    "size": 684721,
+                    "date_published": "2026-08-04T13:14:36.123473Z"
                 }
             ]
         },
@@ -14633,6 +15122,69 @@
                     "required_dependencies": [],
                     "size": 45294936,
                     "date_published": "2026-04-02T17:20:54.228421Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "VrgxsZaCeqWjakU5",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "titanium",
+                "modrinth": "titanium"
+            },
+            "name": {
+                "curseforge": "Titanium",
+                "modrinth": "Titanium"
+            },
+            "id": {
+                "curseforge": "287342",
+                "modrinth": "1Ro7m06l"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "titanium-1.21-4.0.45.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8426/819/titanium-1.21-4.0.45.jar",
+                    "id": "8426819",
+                    "parent_id": "287342",
+                    "hashes": {
+                        "sha1": "c718d4d8713b83964f9b8feea4443a25feb84fc9",
+                        "md5": "0bf8d9fa26d9ed0b3a8d46cf972e52f0"
+                    },
+                    "required_dependencies": [],
+                    "size": 606801,
+                    "date_published": "2026-07-13T20:03:33.487Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "titanium-1.21-4.0.45.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/1Ro7m06l/versions/7AWtSmd7/titanium-1.21-4.0.45.jar",
+                    "id": "7AWtSmd7",
+                    "parent_id": "1Ro7m06l",
+                    "hashes": {
+                        "sha512": "42a386e1cfbeb96049fbdd79fe438c71826a6864f86933e0e62cf4a50728a9d5b6bdce360d70316b234e5c991076c61eb2f922999624ad4cb2a1f612acb8ace3",
+                        "sha1": "c718d4d8713b83964f9b8feea4443a25feb84fc9"
+                    },
+                    "required_dependencies": [],
+                    "size": 606801,
+                    "date_published": "2026-07-13T20:03:45.414387Z"
                 }
             ]
         },

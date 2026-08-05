@@ -290,6 +290,9 @@
 			cottonwood = true
 			willow = true
 
+		[types.wood_type.integrateddynamics]
+			menril = true
+
 		[types.leaves_type.aether]
 			skyroot = true
 			golden_oak = true
@@ -543,6 +546,9 @@
 		[types.leaves_type.hexalia]
 			cottonwood = true
 			willow = true
+
+		[types.leaves_type.integrateddynamics]
+			menril = true
 
 		[entries.stone_type.create]
 			cut_wall = true
