@@ -20,7 +20,7 @@
 	#When true, only the player who placed the tent can remove it
 	owner_only_pickup = false
 	#When true, players can enter the tent by walking through the door
-	players_enter_on_collide = true
+	players_enter_on_collide = false
 	#When true, non-player entities can enter the tent by walking through the door
 	nonplayers_enter_on_collide = true
 	#When true, only Creative mode players can duplicate a tent item
