@@ -113,6 +113,9 @@
 		[types.stone_type.forbidden_arcanus]
 			darkstone = true
 
+		[types.stone_type.rubinated_nether]
+			shrine_stone = true
+
 		[types.mud_type.deep_aether]
 			aether_mud = true
 
