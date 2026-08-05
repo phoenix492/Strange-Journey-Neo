@@ -24,3 +24,6 @@
 /config/mcqoy.toml
 /config/mixinhelper-report.json
 /config/azurelib.json
+/dynamic-data-pack-cache/
+/backups/
+/.sable/

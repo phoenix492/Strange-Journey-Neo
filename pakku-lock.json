@@ -1396,6 +1396,67 @@
             ]
         },
         {
+            "pakku_id": "FgRJBTcwHKKueCkV",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "balm",
+                "modrinth": "balm"
+            },
+            "name": {
+                "curseforge": "Balm",
+                "modrinth": "Balm"
+            },
+            "id": {
+                "curseforge": "531761",
+                "modrinth": "MBAkmtvl"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "balm-neoforge-1.21.1-21.0.64.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8545/422/balm-neoforge-1.21.1-21.0.64.jar",
+                    "id": "8545422",
+                    "parent_id": "531761",
+                    "hashes": {
+                        "sha1": "db544a4fb95f7847cd4b1de9479c39cfa31fd529",
+                        "md5": "c833ed1fce8ca18adbf9733ca3ce5362"
+                    },
+                    "required_dependencies": [],
+                    "size": 783793,
+                    "date_published": "2026-07-31T06:05:23.710Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "balm-neoforge-1.21.1-21.0.64.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/AMOGoVGH/balm-neoforge-1.21.1-21.0.64.jar",
+                    "id": "AMOGoVGH",
+                    "parent_id": "MBAkmtvl",
+                    "hashes": {
+                        "sha512": "e98dfb28aebd14888b4cb219bd88c269ab1991fab4526a3f3b727cdf6e2e919a2b9a8d551c0a37bbc48017089db7260535221555ad7b2eb2fb56d2318a55f4d3",
+                        "sha1": "db544a4fb95f7847cd4b1de9479c39cfa31fd529"
+                    },
+                    "required_dependencies": [],
+                    "size": 783793,
+                    "date_published": "2026-07-31T06:05:32.483704Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "LkqfFVlVAtYMMUvN",
             "pakku_links": [
                 "ApkM4CoD8vsxpV9x"
@@ -6283,6 +6344,74 @@
                     "required_dependencies": [],
                     "size": 3163042,
                     "date_published": "2026-05-13T16:42:12.357594Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "CVyNfCjssmPW1dgu",
+            "pakku_links": [
+                "FgRJBTcwHKKueCkV"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "farming-for-blockheads",
+                "modrinth": "farming-for-blockheads"
+            },
+            "name": {
+                "curseforge": "Farming for Blockheads",
+                "modrinth": "Farming for Blockheads"
+            },
+            "id": {
+                "curseforge": "261924",
+                "modrinth": "4WJZr8JU"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "farmingforblockheads-neoforge-1.21.1-21.1.13.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7966/196/farmingforblockheads-neoforge-1.21.1-21.1.13.jar",
+                    "id": "7966196",
+                    "parent_id": "261924",
+                    "hashes": {
+                        "sha1": "0bd50d760621bfeaa4b1d649ae59eaa4fd82be63",
+                        "md5": "38eb903e4dfb96c8079edd03dc8fca3f"
+                    },
+                    "required_dependencies": [
+                        "531761"
+                    ],
+                    "size": 830933,
+                    "date_published": "2026-04-22T10:30:17.380Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "farmingforblockheads-neoforge-1.21.1-21.1.13.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4WJZr8JU/versions/xGwKlLcS/farmingforblockheads-neoforge-1.21.1-21.1.13.jar",
+                    "id": "xGwKlLcS",
+                    "parent_id": "4WJZr8JU",
+                    "hashes": {
+                        "sha512": "cd8fb3dbea7396e207d61e534512add13677960dfe68e211bb39ca3cc85e17ab8c73adffbf778a165882e45cca86f90902b31bea2215049caf8662e826cc9eb1",
+                        "sha1": "0fe7271e56affbcdd1bae6740355e2add83f811f"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ],
+                    "size": 830933,
+                    "date_published": "2026-04-22T10:30:22.651003Z"
                 }
             ]
         },
