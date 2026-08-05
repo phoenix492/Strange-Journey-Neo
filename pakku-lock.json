@@ -2941,6 +2941,69 @@
             ]
         },
         {
+            "pakku_id": "RXrlRPaelAKHBalY",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "colorful-hearts",
+                "modrinth": "colorful-hearts"
+            },
+            "name": {
+                "curseforge": "Colorful Hearts",
+                "modrinth": "Colorful Hearts"
+            },
+            "id": {
+                "curseforge": "854213",
+                "modrinth": "wQfMUdZT"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6830/399/colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+                    "id": "6830399",
+                    "parent_id": "854213",
+                    "hashes": {
+                        "sha1": "ec63110d126cf95dabe220116bd394e701265de7",
+                        "md5": "19928b5c0725b89b285d8b4e1eec8943"
+                    },
+                    "required_dependencies": [],
+                    "size": 156588,
+                    "date_published": "2025-07-30T22:33:22.170Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/wQfMUdZT/versions/us0gze50/colorfulhearts-neoforge-1.21.1-10.5.9.jar",
+                    "id": "us0gze50",
+                    "parent_id": "wQfMUdZT",
+                    "hashes": {
+                        "sha512": "4791dddc6932a74c28a5e58b51865c09a6be0715bf235eb4d95a050a9130b4013cf4883d35f7c7ccea6997534a0e3cd0e5ec59b79acc8ce01f52d230d476a889",
+                        "sha1": "ec63110d126cf95dabe220116bd394e701265de7"
+                    },
+                    "required_dependencies": [],
+                    "size": 156588,
+                    "date_published": "2025-07-30T22:33:27.866170Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "v1mExih8KdvHPseW",
             "pakku_links": [
                 "5aTrhkCkB3AhQgwU"
@@ -5288,6 +5351,77 @@
             ]
         },
         {
+            "pakku_id": "wdF7rUs6J48Jemf5",
+            "pakku_links": [
+                "zHe4xadlOFHUGsyd",
+                "3iIIfDAVHKnsMlS0"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "deep-resonance",
+                "modrinth": "deep-resonance"
+            },
+            "name": {
+                "curseforge": "Deep Resonance",
+                "modrinth": "Deep Resonance"
+            },
+            "id": {
+                "curseforge": "233398",
+                "modrinth": "gzruRGfo"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "deepresonance-1.21-6.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8256/228/deepresonance-1.21-6.0.2.jar",
+                    "id": "8256228",
+                    "parent_id": "233398",
+                    "hashes": {
+                        "sha1": "11e3aaf7ceceea3c3cd28674b0d205fdd4ed5a7b",
+                        "md5": "2f8ef7a4718efe10b4d7a670466ad29a"
+                    },
+                    "required_dependencies": [
+                        "233105",
+                        "326041"
+                    ],
+                    "size": 843025,
+                    "date_published": "2026-06-16T04:02:26.390Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "deepresonance-1.21-6.0.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/gzruRGfo/versions/Ovv8ukvh/deepresonance-1.21-6.0.2.jar",
+                    "id": "Ovv8ukvh",
+                    "parent_id": "gzruRGfo",
+                    "hashes": {
+                        "sha512": "9822d26523882f9d98a027418d273133dcf42bdc463d62e6d39d865374a43b9dc2ee21779599fdf28c4278c1c95921d026bebbb7220f2675202e71cc57e249e7",
+                        "sha1": "11e3aaf7ceceea3c3cd28674b0d205fdd4ed5a7b"
+                    },
+                    "required_dependencies": [
+                        "hIO8IsD8",
+                        "1Zu0uTEE"
+                    ],
+                    "size": 843025,
+                    "date_published": "2026-06-16T04:02:30.624791Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "fPcJQMOh4Y5Ysu6U",
             "type": "MOD",
             "side": "BOTH",
@@ -5413,6 +5547,68 @@
                     "required_dependencies": [],
                     "size": 100219,
                     "date_published": "2026-04-09T00:24:27.798152Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Q6WyH7H26fPu2nw5",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "dimensional-dungeons",
+                "modrinth": "dimensional-dungeons"
+            },
+            "name": {
+                "curseforge": "Dimensional Dungeons",
+                "modrinth": "Dimensional Dungeons"
+            },
+            "id": {
+                "curseforge": "352222",
+                "modrinth": "Q8XlZjYF"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "dimdungeons-209-neoforge-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8140/47/dimdungeons-209-neoforge-1.21.1.jar",
+                    "id": "8140047",
+                    "parent_id": "352222",
+                    "hashes": {
+                        "sha1": "36949ca181603b0a9379f6a440d3718737b1f845",
+                        "md5": "3885fe3a17d59e4ce4c61cdd94374056"
+                    },
+                    "required_dependencies": [],
+                    "size": 2897615,
+                    "date_published": "2026-05-24T20:43:23.740Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "dimdungeons-203-neoforge-1.21.0.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Q8XlZjYF/versions/mJascdq9/dimdungeons-203-neoforge-1.21.0.jar",
+                    "id": "mJascdq9",
+                    "parent_id": "Q8XlZjYF",
+                    "hashes": {
+                        "sha512": "4dfcee40b6eaadd5745f01e968850e722fd03f77e5cfbbeb00b95b5cc7c3896667f991e14761c5fffee0a5ea13598f9289d16da5d70ae7f5896d82f9850257e1",
+                        "sha1": "e40d7532ab81a06bd21bd4fcede85d6cd83a9e3b"
+                    },
+                    "required_dependencies": [],
+                    "size": 2819269,
+                    "date_published": "2026-01-13T08:38:13.572798Z"
                 }
             ]
         },
@@ -9026,6 +9222,67 @@
             ]
         },
         {
+            "pakku_id": "zHe4xadlOFHUGsyd",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "mcjtylib",
+                "modrinth": "mcjtylib"
+            },
+            "name": {
+                "curseforge": "McJtyLib",
+                "modrinth": "McJtyLib"
+            },
+            "id": {
+                "curseforge": "233105",
+                "modrinth": "1Zu0uTEE"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mcjtylib-1.21-9.0.21.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8256/201/mcjtylib-1.21-9.0.21.jar",
+                    "id": "8256201",
+                    "parent_id": "233105",
+                    "hashes": {
+                        "sha1": "ae0cadbb2c3f4fabc955e627f8bbefa281aa5d3f",
+                        "md5": "4172d32869e00fd63a0fa4661ec15d43"
+                    },
+                    "required_dependencies": [],
+                    "size": 699982,
+                    "date_published": "2026-06-16T03:56:42.307Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "mcjtylib-1.21-9.0.21.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/1Zu0uTEE/versions/9B2CiAN5/mcjtylib-1.21-9.0.21.jar",
+                    "id": "9B2CiAN5",
+                    "parent_id": "1Zu0uTEE",
+                    "hashes": {
+                        "sha512": "3a349ea3718db9da87a6a8603d6beda5c132824cfeaf4dae7fbf3d463b7cab78b65f7deefd4a845bee3f7c3c60b9e062a27197fcd30d33f21cb9f0c4109d0e5c",
+                        "sha1": "ae0cadbb2c3f4fabc955e627f8bbefa281aa5d3f"
+                    },
+                    "required_dependencies": [],
+                    "size": 699982,
+                    "date_published": "2026-06-16T03:56:46.640734Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "eQn8xChstwp4ycIv",
             "pakku_links": [
                 "rjk6emDH03H09DiG"
@@ -11337,6 +11594,74 @@
                     "required_dependencies": [],
                     "size": 1811210,
                     "date_published": "2026-08-03T14:39:38.192774Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3iIIfDAVHKnsMlS0",
+            "pakku_links": [
+                "zHe4xadlOFHUGsyd"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "rftools-base",
+                "modrinth": "rftools-base"
+            },
+            "name": {
+                "curseforge": "RFTools Base",
+                "modrinth": "RFTools Base"
+            },
+            "id": {
+                "curseforge": "326041",
+                "modrinth": "hIO8IsD8"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "rftoolsbase-1.21-6.0.11.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8256/204/rftoolsbase-1.21-6.0.11.jar",
+                    "id": "8256204",
+                    "parent_id": "326041",
+                    "hashes": {
+                        "sha1": "9614bdc12d6c633801b254a983d30dd4cbeb5aee",
+                        "md5": "782105e21abff52527699afd70b177a1"
+                    },
+                    "required_dependencies": [
+                        "233105"
+                    ],
+                    "size": 463973,
+                    "date_published": "2026-06-16T03:57:13.210Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "rftoolsbase-1.21-6.0.11.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/hIO8IsD8/versions/f8Tk2cfj/rftoolsbase-1.21-6.0.11.jar",
+                    "id": "f8Tk2cfj",
+                    "parent_id": "hIO8IsD8",
+                    "hashes": {
+                        "sha512": "8c6f8f7dee9dd1c02651304beaab69c439f8524cdacd5776814a57c55db0713e8ae30306875a64e66253fe004bb0254e82031f51c0371e7f443400a2f26ead3f",
+                        "sha1": "9614bdc12d6c633801b254a983d30dd4cbeb5aee"
+                    },
+                    "required_dependencies": [
+                        "1Zu0uTEE"
+                    ],
+                    "size": 463973,
+                    "date_published": "2026-06-16T03:57:17.310799Z"
                 }
             ]
         },

@@ -1,0 +1,24 @@
+#Base generator volume
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+baseGeneratorVolume = 1.0
+#Loop volume factor
+# Default: 1.0
+# Range: 0.0 ~ 1.0
+loopVolumeFactor = 1.0
+#The color for the radiation overlay text in case the radiation monitor is in the players hand
+# Default: -65536
+# Range: > -2147483648
+radiationOverlayColor = -65536
+#The color for the radiation overlay text in case the radiation monitor is in the players hand (in case there is no radiation)
+# Default: -16711936
+# Range: > -2147483648
+radiationOverlayColorNoRadiation = -16711936
+#The X coordinate (with 0 being left) for the radiation overlay text. Use -1 to disable
+# Default: 10
+# Range: > -1
+radiationOverlayX = 10
+#The Y coordinate (with 0 being top) for the radiation overlay text. Use -1 to disable
+# Default: 10
+# Range: > -1
+radiationOverlayY = 10
