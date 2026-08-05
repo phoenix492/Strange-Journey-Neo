@@ -22,3 +22,4 @@
 *.bak
 /config/iris.properties
 /config/mcqoy.toml
+/config/mixinhelper-report.json
