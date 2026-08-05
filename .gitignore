@@ -28,7 +28,6 @@
 /backups/
 /.sable/
 /soundfonts/
-/dev/
 /libraries-integratedscripting/
 /data/
 /HeadlessMC/
@@ -38,3 +37,6 @@
 /config/spark/tmp-client/
 /usercache.json
 /usernamecache.json
+/dev/headlessmc-launcher-2.10.0.jar
+/dev/pakku.jar
+/dev/scripts/old/
