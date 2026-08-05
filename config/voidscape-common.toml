@@ -2,4 +2,4 @@
 #Example: minecraft:overworld
 bedrockTeleportationDimensionBlacklist = []
 #Changes the bedrock teleportation dimension blacklist config to be a whitelist instead
-bedrockTeleportationDimensionWhitelist = false
+bedrockTeleportationDimensionWhitelist = true
