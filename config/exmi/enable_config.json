@@ -1,0 +1,8 @@
+{
+  "enabledIntegrations": {
+    "farmersdelight": true,
+    "irons_spellbooks": true,
+    "reliquary": true,
+    "chipped": true
+  }
+}

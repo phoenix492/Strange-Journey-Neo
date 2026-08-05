@@ -98,6 +98,9 @@
     "dragon": true,
     "dragon_egg_block": true
   },
+  "balm": {
+    "jade": true
+  },
   "ae2": {
     "part_icon": true,
     "charger": true,
