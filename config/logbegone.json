@@ -6,6 +6,7 @@
       "GL_INVALID_OPERATION in glBlitFramebuffer(depth attachment format mismatch)"
     ],
     "regex": [
+      "Configuration file.*is not correct",
       "Disconnecting VANILLA connection attempt",
       "Channels "
     ]
