@@ -287,6 +287,74 @@
             ]
         },
         {
+            "pakku_id": "CVefshUiYLRaKAC1",
+            "pakku_links": [
+                "evA2M1RHMmYfbdb3"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "actually-additions",
+                "modrinth": "actually-additions"
+            },
+            "name": {
+                "curseforge": "Actually Additions",
+                "modrinth": "Actually Additions"
+            },
+            "id": {
+                "curseforge": "228404",
+                "modrinth": "4K7Q3nqd"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "actuallyadditions-1.3.26+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8281/896/actuallyadditions-1.3.26+mc1.21.1.jar",
+                    "id": "8281896",
+                    "parent_id": "228404",
+                    "hashes": {
+                        "sha1": "bd1826f117065dc3d73f0a7197091a4c37829a06",
+                        "md5": "afcbe65bdf1cafd25e485992dd8bfade"
+                    },
+                    "required_dependencies": [
+                        "306770"
+                    ],
+                    "size": 3217309,
+                    "date_published": "2026-06-19T19:14:07.623Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "actuallyadditions-1.3.26+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/4K7Q3nqd/versions/iNeJmgFj/actuallyadditions-1.3.26+mc1.21.1.jar",
+                    "id": "iNeJmgFj",
+                    "parent_id": "4K7Q3nqd",
+                    "hashes": {
+                        "sha512": "69c9e919fbe3a4c3478a01d2693a944c72e217737c37d6bb94086e07a962404a089cdccd38372df28dc3726df298f00a5b22a433b1c776b04c979a8a7d12c3c6",
+                        "sha1": "bd1826f117065dc3d73f0a7197091a4c37829a06"
+                    },
+                    "required_dependencies": [
+                        "nU0bVIaL"
+                    ],
+                    "size": 3217309,
+                    "date_published": "2026-06-19T19:13:56.257039Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "KsyFy37HN3gnrfoB",
             "type": "MOD",
             "side": "SERVER",
@@ -541,6 +609,67 @@
             ]
         },
         {
+            "pakku_id": "xdvF9AnNMFzQ2ono",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "aileron",
+                "modrinth": "aileron"
+            },
+            "name": {
+                "curseforge": "Aileron",
+                "modrinth": "Aileron"
+            },
+            "id": {
+                "curseforge": "649925",
+                "modrinth": "b8kG1VGq"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "aileron-1.21.1-neoforge-1.1.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7026/961/aileron-1.21.1-neoforge-1.1.4.jar",
+                    "id": "7026961",
+                    "parent_id": "649925",
+                    "hashes": {
+                        "sha1": "9fe97b808ccac3289644fc55ad364475434dfb2f",
+                        "md5": "99c54c395402d32182ccc00b17418d95"
+                    },
+                    "required_dependencies": [],
+                    "size": 269209,
+                    "date_published": "2025-09-23T21:07:00.100Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "aileron-1.21.1-neoforge-1.1.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/b8kG1VGq/versions/XDz1C9KI/aileron-1.21.1-neoforge-1.1.4.jar",
+                    "id": "XDz1C9KI",
+                    "parent_id": "b8kG1VGq",
+                    "hashes": {
+                        "sha512": "65fdd62ab143a09a5b0049996f6a65361a4447646d41fa1f092af8df85e3106eb531de07e32ce10ac29c318d1ff03427dde143abcf2e616d8bd2bccfb2f575c3",
+                        "sha1": "9fe97b808ccac3289644fc55ad364475434dfb2f"
+                    },
+                    "required_dependencies": [],
+                    "size": 269209,
+                    "date_published": "2025-09-23T21:02:21.157981Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "lX7Emhx1EAUiIUfW",
             "pakku_links": [
                 "QkmIjThVh84EUBo3"
@@ -619,6 +748,42 @@
                     ],
                     "size": 26620546,
                     "date_published": "2026-01-26T01:53:08.140Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "B8iNK4JkR4ucMbsd",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "alltheleaks"
+            },
+            "name": {
+                "curseforge": "AllTheLeaks (Memory Leak Fix)"
+            },
+            "id": {
+                "curseforge": "1091339"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "alltheleaks-1.1.11+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8553/655/alltheleaks-1.1.11+1.21.1-neoforge.jar",
+                    "id": "8553655",
+                    "parent_id": "1091339",
+                    "hashes": {
+                        "sha1": "f94d617b2e887e4bee6f54377c0a931bae823032",
+                        "md5": "57dee719672189d2a93100a63c5257c3"
+                    },
+                    "required_dependencies": [],
+                    "size": 540482,
+                    "date_published": "2026-08-01T11:24:54.007Z"
                 }
             ]
         },

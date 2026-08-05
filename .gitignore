@@ -34,3 +34,6 @@
 /HeadlessMC/
 /config/ars_nouveau/search_index/
 /ponders_watched.json
+/config/spark/tmp/
+/config/spark/tmp-client/
+/usercache.json
