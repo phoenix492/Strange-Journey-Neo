@@ -21,3 +21,4 @@
 /spark-modernfix/
 *.bak
 /config/iris.properties
+/config/mcqoy.toml
