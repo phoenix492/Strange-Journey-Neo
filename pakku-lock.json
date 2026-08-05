@@ -5082,6 +5082,46 @@
             ]
         },
         {
+            "pakku_id": "gquDl2QDYFWJccVa",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "dimensional-tears",
+                "modrinth": "dimensional-tears"
+            },
+            "name": {
+                "curseforge": "Dimensional Tears",
+                "modrinth": "Dimensional Tears"
+            },
+            "id": {
+                "curseforge": "1147326",
+                "modrinth": "QsjoEiYm"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "dimensional_tears-neoforge-1.21.1-0.2.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/QsjoEiYm/versions/m0JoomYU/dimensional_tears-neoforge-1.21.1-0.2.1.jar",
+                    "id": "m0JoomYU",
+                    "parent_id": "QsjoEiYm",
+                    "hashes": {
+                        "sha512": "f7b887bd52314315f7cff94fb0bb588c8ee534e02df420582836cc5c19f8e56fd183f741765c145019e8f696d11b6345d545192a12de825e192836141235a8eb",
+                        "sha1": "3e4243ba914ae3bd3a0d7bc71c8a58ce81a7b970"
+                    },
+                    "required_dependencies": [],
+                    "size": 791818,
+                    "date_published": "2026-04-08T04:45:59.984625Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "txOkpKynmOMXUwdG",
             "type": "MOD",
             "side": "BOTH",
@@ -7086,6 +7126,51 @@
                     ],
                     "size": 78351807,
                     "date_published": "2026-08-03T09:35:02.915299Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "gDOUD8x7zqm8bjM0",
+            "pakku_links": [
+                "JxZyNXLeVJi6P20h"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "grounded",
+                "modrinth": "grounded"
+            },
+            "name": {
+                "curseforge": "Grounded",
+                "modrinth": "Grounded"
+            },
+            "id": {
+                "curseforge": "1140983",
+                "modrinth": "65WUS6p6"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "grounded-neoforge-1.21.1-0.2.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/65WUS6p6/versions/rMOW6kM5/grounded-neoforge-1.21.1-0.2.0.jar",
+                    "id": "rMOW6kM5",
+                    "parent_id": "65WUS6p6",
+                    "hashes": {
+                        "sha512": "5f2b4389826ee4d2a3a83478c886338666ca321e18f66a0e7c22a04906714907684ffe5f4f8173217e7fdd33104ddd6e7e4c4d193eec52a0c63da438a4d558fa",
+                        "sha1": "3a54fd155eac5f62691f573465836c7eff976b52"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc"
+                    ],
+                    "size": 782329,
+                    "date_published": "2026-03-20T04:10:57.404099Z"
                 }
             ]
         },
@@ -12723,6 +12808,51 @@
             ]
         },
         {
+            "pakku_id": "GCLuKZzamzTIDzXu",
+            "pakku_links": [
+                "JxZyNXLeVJi6P20h"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "spelunkery",
+                "modrinth": "spelunkery"
+            },
+            "name": {
+                "curseforge": "Spelunkery",
+                "modrinth": "Spelunkery"
+            },
+            "id": {
+                "curseforge": "790530",
+                "modrinth": "krskFMfA"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "spelunkery-1.21.1-0.4.3-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/krskFMfA/versions/oLqPJYV9/spelunkery-1.21.1-0.4.3-neoforge.jar",
+                    "id": "oLqPJYV9",
+                    "parent_id": "krskFMfA",
+                    "hashes": {
+                        "sha512": "17a8d992362d8aad07a065e8798e5d0a348e1e5d8143790fc580375c6968cde3faf7ab8490404dd2b326d075993b6ccb0f09ac39eeab723ae58df51657db7c23",
+                        "sha1": "be46e4fcf3590c5dbca4942384e6b1ec0b9d6d59"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc"
+                    ],
+                    "size": 2081279,
+                    "date_published": "2026-06-18T18:16:24.941769Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "og9nuuG7p64hyLdH",
             "type": "MOD",
             "side": "CLIENT",
@@ -13733,6 +13863,51 @@
             ]
         },
         {
+            "pakku_id": "AFFO7WhcAZi5aMl7",
+            "pakku_links": [
+                "JxZyNXLeVJi6P20h"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "verdant",
+                "modrinth": "verdant-mod"
+            },
+            "name": {
+                "curseforge": "Verdant",
+                "modrinth": "Verdant"
+            },
+            "id": {
+                "curseforge": "1162412",
+                "modrinth": "MGgL5dVc"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "verdant-neoforge-1.21.1-0.2.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MGgL5dVc/versions/JQW8lYvn/verdant-neoforge-1.21.1-0.2.0.jar",
+                    "id": "JQW8lYvn",
+                    "parent_id": "MGgL5dVc",
+                    "hashes": {
+                        "sha512": "c120b4c19b5886ee281f969a002d46f06ea8f0df454861d7044fe8e7861ffe6683e04b48ff867b50ed0e87f146152e038f8a26ca59170e92a8d77be31c8508d2",
+                        "sha1": "b79c96b494ea80f873435112b0f4452406cd9a94"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc"
+                    ],
+                    "size": 958784,
+                    "date_published": "2026-03-20T04:12:34.701298Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "HuYGvOP7OIMk1glW",
             "type": "MOD",
             "side": "BOTH",
@@ -14085,6 +14260,74 @@
                     ],
                     "size": 230378,
                     "date_published": "2026-05-08T19:15:39.197399Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "v5NZSY4IGST1ra33",
+            "pakku_links": [
+                "JxZyNXLeVJi6P20h"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "would",
+                "modrinth": "would"
+            },
+            "name": {
+                "curseforge": "Would",
+                "modrinth": "Would"
+            },
+            "id": {
+                "curseforge": "1147324",
+                "modrinth": "D2IDbjeu"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "would-1.21.1-0.1.3-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7035/799/would-1.21.1-0.1.3-neoforge.jar",
+                    "id": "7035799",
+                    "parent_id": "1147324",
+                    "hashes": {
+                        "sha1": "00225f3f8023ad75a745bcdc4a1ec1da0e9db44e",
+                        "md5": "b5c63ec66e588c0e6490c97c8601ff2c"
+                    },
+                    "required_dependencies": [
+                        "499980"
+                    ],
+                    "size": 1158334,
+                    "date_published": "2025-09-26T16:58:20.180Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "would-1.21.1-0.1.4-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/D2IDbjeu/versions/tCzVXIHV/would-1.21.1-0.1.4-neoforge.jar",
+                    "id": "tCzVXIHV",
+                    "parent_id": "D2IDbjeu",
+                    "hashes": {
+                        "sha512": "3b4aadca2f5913ed79828256f2a0e3ea47926cfb123d62b48e822343ed258069c226de8675c3aadb59c78662f1c42f033335042bb3e101df66e3f3c50a1bad34",
+                        "sha1": "7e4e5823b114abad015d88fdab5909c7f933f08b"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc"
+                    ],
+                    "size": 1158333,
+                    "date_published": "2025-09-29T23:46:51.169323Z"
                 }
             ]
         },

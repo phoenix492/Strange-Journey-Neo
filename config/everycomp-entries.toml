@@ -103,6 +103,9 @@
 			shale = true
 			arkose = true
 
+		[types.stone_type.spelunkery]
+			nephrite = true
+
 		[types.mud_type.deep_aether]
 			aether_mud = true
 
@@ -248,6 +251,21 @@
 			holly = true
 			chestnut = true
 			pine = true
+
+		[types.wood_type.would]
+			willow = true
+			baobab = true
+			ebony = true
+			fir = true
+			pine = true
+			cedar = true
+			mahogany = true
+			azalea = true
+			palm = true
+			maple = true
+			aspen = true
+			walnut = true
+			blue_spruce = true
 
 		[types.leaves_type.aether]
 			skyroot = true
@@ -455,6 +473,20 @@
 			chestnut = true
 			pine = true
 			flowering_acacia = true
+
+		[types.leaves_type.would]
+			willow = true
+			baobab = true
+			ebony = true
+			fir = true
+			pine = true
+			cedar = true
+			mahogany = true
+			palm = true
+			maple = true
+			aspen = true
+			walnut = true
+			blue_spruce = true
 
 		[entries.stone_type.chipped]
 			tiled_column = true
