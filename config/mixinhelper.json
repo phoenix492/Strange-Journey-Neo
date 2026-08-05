@@ -3,7 +3,7 @@
   "enabled": true,
   "blacklist": {
     "mixins": [],
-    "mixinConfigs": [],
+    "mixinConfigs": ["unify.mixins.json"],
     "targetClasses": []
   },
   "priorities": {
