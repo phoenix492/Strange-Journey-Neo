@@ -1993,6 +1993,46 @@
             ]
         },
         {
+            "pakku_id": "6RLzCe9TUe1w3tmc",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "bookshelf",
+                "modrinth": "bookshelf"
+            },
+            "name": {
+                "curseforge": "Bookshelf",
+                "modrinth": "Bookshelf"
+            },
+            "id": {
+                "curseforge": "228525",
+                "modrinth": "VUkUwfUG"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7606/240/bookshelf-neoforge-1.21.1-21.1.81.jar",
+                    "id": "7606240",
+                    "parent_id": "228525",
+                    "hashes": {
+                        "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
+                        "md5": "9f627fe031221159d74a491e279f773a"
+                    },
+                    "required_dependencies": [],
+                    "size": 328813,
+                    "date_published": "2026-02-10T22:44:17.770Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "RBIM09YxAVBCANWZ",
             "pakku_links": [
                 "sch8ucxOqrnWIBWx",
@@ -9496,6 +9536,69 @@
             ]
         },
         {
+            "pakku_id": "bcAawmGGDm5G9s98",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "jei",
+                "modrinth": "jei"
+            },
+            "name": {
+                "curseforge": "Just Enough Items (JEI)",
+                "modrinth": "Just Enough Items (JEI)"
+            },
+            "id": {
+                "curseforge": "238222",
+                "modrinth": "u6dRKJwZ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "jei-1.21.1-neoforge-19.43.0.393.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8569/44/jei-1.21.1-neoforge-19.43.0.393.jar",
+                    "id": "8569044",
+                    "parent_id": "238222",
+                    "hashes": {
+                        "sha1": "3cb954a19cf5d958f3e83842657bda665f3f4d37",
+                        "md5": "ff4901b8ddf3a4a0ae4e72c6aae2da5d"
+                    },
+                    "required_dependencies": [],
+                    "size": 1685121,
+                    "date_published": "2026-08-03T12:20:49.663Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "jei-1.21.1-neoforge-19.43.0.393.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Y16jFgP5/jei-1.21.1-neoforge-19.43.0.393.jar",
+                    "id": "Y16jFgP5",
+                    "parent_id": "u6dRKJwZ",
+                    "hashes": {
+                        "sha512": "04ea7c24a00b980851a34b71899c44731df5b830feafe4172641ae5f42432aabd34ba2ea57fa8f0577823bed0212c4214d409a8ea2060038deed0e8e7e237e81",
+                        "sha1": "3cb954a19cf5d958f3e83842657bda665f3f4d37"
+                    },
+                    "required_dependencies": [],
+                    "size": 1685121,
+                    "date_published": "2026-08-03T12:21:04.901399Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "PhZJXSpTSmCc39Wo",
             "type": "MOD",
             "side": "BOTH",
@@ -9975,6 +10078,77 @@
                     "required_dependencies": [],
                     "size": 33585331,
                     "date_published": "2026-01-12T01:38:32.709150Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ewXMtuxrINMGVybe",
+            "pakku_links": [
+                "6RLzCe9TUe1w3tmc",
+                "Lg3mdM3EJrjR4Gej"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "max-health-fix",
+                "modrinth": "max-health-fix"
+            },
+            "name": {
+                "curseforge": "Max Health Fix",
+                "modrinth": "Max Health Fix"
+            },
+            "id": {
+                "curseforge": "492246",
+                "modrinth": "mH8wdmqr"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5824/111/maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+                    "id": "5824111",
+                    "parent_id": "492246",
+                    "hashes": {
+                        "sha1": "56243df705c150933642f7108b0d882322147d63",
+                        "md5": "5f76f9a4e9b5f2be25258bf5ccf6d15a"
+                    },
+                    "required_dependencies": [
+                        "228525",
+                        "1023259"
+                    ],
+                    "size": 20034,
+                    "date_published": "2024-10-19T09:30:13.130Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/mH8wdmqr/versions/Oh3tUtEX/maxhealthfix-neoforge-1.21.1-21.1.4.jar",
+                    "id": "Oh3tUtEX",
+                    "parent_id": "mH8wdmqr",
+                    "hashes": {
+                        "sha512": "c4ce1c648b5babfc3578abb88b0b78f7d1338b8cb0375bfb43026c20435564e72ca615e5cc0a5fac024e5f4b657b0173aa10ef33b5a83f9072406d4ad618a3f8",
+                        "sha1": "56243df705c150933642f7108b0d882322147d63"
+                    },
+                    "required_dependencies": [
+                        "aaRl8GiW",
+                        "uy4Cnpcm"
+                    ],
+                    "size": 20034,
+                    "date_published": "2024-10-19T09:30:23.599692Z"
                 }
             ]
         },
@@ -11967,6 +12141,67 @@
                     "required_dependencies": [],
                     "size": 174972,
                     "date_published": "2025-07-21T10:56:19.716302Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Lg3mdM3EJrjR4Gej",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "prickle",
+                "modrinth": "prickle"
+            },
+            "name": {
+                "curseforge": "Prickle",
+                "modrinth": "Prickle"
+            },
+            "id": {
+                "curseforge": "1023259",
+                "modrinth": "aaRl8GiW"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "prickle-neoforge-1.21.1-21.1.11.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6961/457/prickle-neoforge-1.21.1-21.1.11.jar",
+                    "id": "6961457",
+                    "parent_id": "1023259",
+                    "hashes": {
+                        "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36",
+                        "md5": "533c154fb306cd8043564ee1533873ce"
+                    },
+                    "required_dependencies": [],
+                    "size": 84812,
+                    "date_published": "2025-09-04T03:19:33.637Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "prickle-neoforge-1.21.1-21.1.11.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar",
+                    "id": "EE1FHDyD",
+                    "parent_id": "aaRl8GiW",
+                    "hashes": {
+                        "sha512": "154d42795ccf1f3e07714775cdb82fd5db17574319286ced13d86b0456b64e4cf5bb89ffbcbfcefce67b73ed0b83e4e2944e493d79d9a385ff9de23006ee7bf5",
+                        "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36"
+                    },
+                    "required_dependencies": [],
+                    "size": 84812,
+                    "date_published": "2025-09-04T03:19:44.476257Z"
                 }
             ]
         },
