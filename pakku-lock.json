@@ -1726,6 +1726,79 @@
             ]
         },
         {
+            "pakku_id": "RI9lgfVTwJGjHDtO",
+            "pakku_links": [
+                "bKoG2M5QCsHo5kG0",
+                "hM6xwMLPv6WuEnDt"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "better-archeology",
+                "modrinth": "better-archeology"
+            },
+            "name": {
+                "curseforge": "Better Archeology",
+                "modrinth": "Better Archeology"
+            },
+            "id": {
+                "curseforge": "835687",
+                "modrinth": "zCh7omyG"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "betterarcheology-neoforge-1.21.1-1.3.8.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8577/242/betterarcheology-neoforge-1.21.1-1.3.8.jar",
+                    "id": "8577242",
+                    "parent_id": "835687",
+                    "hashes": {
+                        "sha1": "fb2d3f41d2973911e84c5a99dfd1da8a8a9edbb2",
+                        "md5": "94ba3812cfa281355b43d2101073e37b"
+                    },
+                    "required_dependencies": [
+                        "714059",
+                        "419699"
+                    ],
+                    "size": 3106762,
+                    "date_published": "2026-08-04T17:41:15.020Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "betterarcheology-neoforge-1.21.1-1.3.8.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/zCh7omyG/versions/HiVBL8w1/betterarcheology-neoforge-1.21.1-1.3.8.jar",
+                    "id": "HiVBL8w1",
+                    "parent_id": "zCh7omyG",
+                    "hashes": {
+                        "sha512": "ccc391b714b7f5fe1b6f34e2d4da320c8b4569c04740be6cc32454c62abe70032b912e19e9640d5dd540aed498f48f57f16309fa2d0cb05f0f159721ae9066e4",
+                        "sha1": "fb2d3f41d2973911e84c5a99dfd1da8a8a9edbb2"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ",
+                        "M1953qlQ"
+                    ],
+                    "size": 3106762,
+                    "date_published": "2026-08-04T17:41:15.701726Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "zoRJ6fZ4XtXNi9yR",
             "pakku_links": [
                 "viY4V476CgnvAvHG"
@@ -2126,6 +2199,42 @@
                     "required_dependencies": [],
                     "size": 1575450,
                     "date_published": "2026-06-24T00:01:20.791498Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "OaL3l0Eitoq2Jx5R",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "building-gadgets"
+            },
+            "name": {
+                "curseforge": "Building Gadgets"
+            },
+            "id": {
+                "curseforge": "298187"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "buildinggadgets2-1.3.9.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6850/515/buildinggadgets2-1.3.9.jar",
+                    "id": "6850515",
+                    "parent_id": "298187",
+                    "hashes": {
+                        "sha1": "666a155981e3cd231f67809b9e2a0238377bbbfc",
+                        "md5": "0075f857291a8dd0a58a1bebbaef4f51"
+                    },
+                    "required_dependencies": [],
+                    "size": 3858597,
+                    "date_published": "2025-08-05T11:33:02.600Z"
                 }
             ]
         },
@@ -10250,6 +10359,83 @@
             ]
         },
         {
+            "pakku_id": "ulTBjbtujNnMluz5",
+            "pakku_links": [
+                "bmCOqypazyfrG8Ga",
+                "4UyaR58jeBRbPczE",
+                "GUM16qCP9OZwnf8B",
+                "uCmYqURXJNaz9Wxb"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "occultism",
+                "modrinth": "occultism"
+            },
+            "name": {
+                "curseforge": "Occultism",
+                "modrinth": "Occultism"
+            },
+            "id": {
+                "curseforge": "361026",
+                "modrinth": "sbJh4AZw"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "occultism-1.21.1-neoforge-1.224.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8546/488/occultism-1.21.1-neoforge-1.224.1.jar",
+                    "id": "8546488",
+                    "parent_id": "361026",
+                    "hashes": {
+                        "sha1": "96e03c9cf38c6855b9080a9c9f2deb01dfdbfdf9",
+                        "md5": "09bbd05cf50d42db58532a8d7546f78e"
+                    },
+                    "required_dependencies": [
+                        "309927",
+                        "661293",
+                        "538392",
+                        "388172"
+                    ],
+                    "size": 6951458,
+                    "date_published": "2026-07-31T10:14:33.173Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "occultism-1.21.1-neoforge-1.224.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sbJh4AZw/versions/MSRHygwv/occultism-1.21.1-neoforge-1.224.1.jar",
+                    "id": "MSRHygwv",
+                    "parent_id": "sbJh4AZw",
+                    "hashes": {
+                        "sha512": "ebe7d6561cacb3cce5bae248c835d330d4b66c0bfcee04c4a4e644f9f46cea8e95510f0cb9aee8c26da491cf7228f0b9b33928dacb4f999f4474c7c50220019f",
+                        "sha1": "96e03c9cf38c6855b9080a9c9f2deb01dfdbfdf9"
+                    },
+                    "required_dependencies": [
+                        "PuyPazRT",
+                        "692GClaE",
+                        "vvuO3ImH",
+                        "8BmcQJ2H"
+                    ],
+                    "size": 6951458,
+                    "date_published": "2026-07-31T10:14:36.012537Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "fmHtco9vKI4sIi2l",
             "type": "MOD",
             "side": "BOTH",
@@ -11886,6 +12072,47 @@
             ]
         },
         {
+            "pakku_id": "bKoG2M5QCsHo5kG0",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "resourceful-config",
+                "modrinth": "resourceful-config"
+            },
+            "name": {
+                "curseforge": "Resourceful Config",
+                "modrinth": "Resourceful Config"
+            },
+            "id": {
+                "curseforge": "714059",
+                "modrinth": "M1953qlQ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/lSbyRD6v/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+                    "id": "lSbyRD6v",
+                    "parent_id": "M1953qlQ",
+                    "hashes": {
+                        "sha512": "8e4ccc37732b3f5190e7e98df34dbc1339fe614494fcabf1aeaeab9ad8e5993522964b51be31882000c08c48a6d0096b5458364415bb81f2b2b775a7daf2eb87",
+                        "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031"
+                    },
+                    "required_dependencies": [],
+                    "size": 341009,
+                    "date_published": "2025-04-26T17:59:04.789908Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "IvaGuVk8qu4bhlG7",
             "type": "MOD",
             "side": "BOTH",
@@ -12594,6 +12821,67 @@
                     "required_dependencies": [],
                     "size": 1914804,
                     "date_published": "2024-11-26T02:58:30.978791Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "4UyaR58jeBRbPczE",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "smartbrainlib",
+                "modrinth": "smartbrainlib"
+            },
+            "name": {
+                "curseforge": "SmartBrainLib (Forge/Fabric/Quilt)",
+                "modrinth": "SmartBrainLib"
+            },
+            "id": {
+                "curseforge": "661293",
+                "modrinth": "PuyPazRT"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7055/149/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+                    "id": "7055149",
+                    "parent_id": "661293",
+                    "hashes": {
+                        "sha1": "0310135a01eeceefbc7f1ab017498a65f3ad6836",
+                        "md5": "252a7712a2c5d020d673f276dba280ee"
+                    },
+                    "required_dependencies": [],
+                    "size": 391053,
+                    "date_published": "2025-10-01T20:24:48.653Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PuyPazRT/versions/O5EpeqI3/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+                    "id": "O5EpeqI3",
+                    "parent_id": "PuyPazRT",
+                    "hashes": {
+                        "sha512": "bfc76f6fd8c388d01b80601ad1b826f6b3f5ec5ea915e5725af129561e6bc4a10890975e6f6d2a0348d842c13042dcf1a9d0a1574fba76bce60119bee76e2dc2",
+                        "sha1": "0310135a01eeceefbc7f1ab017498a65f3ad6836"
+                    },
+                    "required_dependencies": [],
+                    "size": 391053,
+                    "date_published": "2025-10-01T20:24:22.902691Z"
                 }
             ]
         },

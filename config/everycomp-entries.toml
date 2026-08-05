@@ -106,6 +106,10 @@
 		[types.stone_type.spelunkery]
 			nephrite = true
 
+		[types.stone_type.occultism]
+			otherstone = true
+			otherrock = true
+
 		[types.mud_type.deep_aether]
 			aether_mud = true
 
@@ -270,6 +274,9 @@
 		[types.wood_type.tropicraft]
 			mahogany = true
 			palm = true
+
+		[types.wood_type.betterarcheology]
+			rotten = true
 
 		[types.leaves_type.aether]
 			skyroot = true
@@ -514,6 +521,9 @@
 			tea_mangrove = true
 			black_mangrove = true
 
+		[types.leaves_type.occultism]
+			otherworld = true
+
 		[entries.stone_type.create]
 			cut_wall = true
 			small_bricks = true
@@ -543,6 +553,11 @@
 			carved_bricks = true
 			pillar = true
 			brick_lattice = true
+
+		[entries.mud_type.betterarcheology]
+			cracked_brick_stairs = true
+			cracked_bricks = true
+			cracked_brick_slab = true
 
 		[entries.wood_type.boatload]
 			large_boat = true

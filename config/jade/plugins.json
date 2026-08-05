@@ -92,6 +92,10 @@
   "embers": {
     "machine_details": true
   },
+  "occultism": {
+    "foliot": true,
+    "sacrificial": true
+  },
   "iceandfire": {
     "dragon_egg_entity": true,
     "multipart": true,
