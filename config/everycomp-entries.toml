@@ -86,9 +86,6 @@
 		[types.stone_type.scguns]
 			phosphorite = true
 
-		[types.stone_type.supplementaries]
-			brittlestone = true
-
 		[types.stone_type.twilightforest]
 			deadrock = true
 			mazestone = true
@@ -115,6 +112,13 @@
 
 		[types.stone_type.rubinated_nether]
 			shrine_stone = true
+
+		[types.stone_type.lunarnether]
+			lunar_stone = true
+
+		[types.stone_type.pneumaticcraft]
+			reinforced_stone = true
+			compressed_stone = true
 
 		[types.mud_type.deep_aether]
 			aether_mud = true
@@ -295,6 +299,11 @@
 
 		[types.wood_type.integrateddynamics]
 			menril = true
+
+		[types.wood_type.enchanted]
+			alder = true
+			hawthorn = true
+			rowan = true
 
 		[types.leaves_type.aether]
 			skyroot = true
@@ -552,6 +561,11 @@
 
 		[types.leaves_type.integrateddynamics]
 			menril = true
+
+		[types.leaves_type.enchanted]
+			alder = true
+			hawthorn = true
+			rowan = true
 
 		[entries.stone_type.create]
 			cut_wall = true

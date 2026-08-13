@@ -62,16 +62,6 @@
     "goggles.detailed": false,
     "placard": true
   },
-  "jade_access": {
-    "held_item": true,
-    "sign": true,
-    "block": true,
-    "entity": true,
-    "entity_variant": true
-  },
-  "oritech": {
-    "machine_core_controller": true
-  },
   "immersiveengineering": {
     "multiblock_icon": true
   },
@@ -88,6 +78,71 @@
   },
   "redomesticate": {
     "collar_tag": true
+  },
+  "ae2": {
+    "part_icon": true,
+    "charger": true,
+    "debug": true,
+    "part_tooltip": true,
+    "grid_node_state": true,
+    "pattern_provider": true,
+    "part_mod_name": true,
+    "power_storage": true,
+    "crafting_monitor": true,
+    "part_name": true
+  },
+  "enderio": {
+    "soul_bound": true
+  },
+  "mekanism": {
+    "chemical": true,
+    "remove_builtin": true,
+    "fluid": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "quark": {
+    "oretoise_eating_cooldown": true
+  },
+  "reliquary": {
+    "pedestal": true,
+    "altar": true,
+    "mortar": true,
+    "cauldron": true
+  },
+  "neovitae": {
+    "block_info": true
+  },
+  "goety": {
+    "block_owner": true,
+    "soul_energy": true,
+    "raider_leader": true,
+    "hostile": true,
+    "servant_mode": true,
+    "capture_mode": true,
+    "zombie_villager": true,
+    "villager_profession": true,
+    "train_to": true,
+    "summon_lifespan": true,
+    "trainable": true
+  },
+  "jade_access": {
+    "held_item": true,
+    "sign": true,
+    "block": true,
+    "entity": true,
+    "entity_variant": true
+  },
+  "oritech": {
+    "machine_core_controller": true
+  },
+  "pneumaticcraft": {
+    "pneumatic": true,
+    "tube_module": true,
+    "entity": true,
+    "redstone": true,
+    "camo": true,
+    "semiblock": true
   },
   "embers": {
     "machine_details": true
@@ -113,18 +168,6 @@
     "part": true,
     "squeezer": true
   },
-  "ae2": {
-    "part_icon": true,
-    "charger": true,
-    "debug": true,
-    "part_tooltip": true,
-    "grid_node_state": true,
-    "pattern_provider": true,
-    "part_mod_name": true,
-    "power_storage": true,
-    "crafting_monitor": true,
-    "part_name": true
-  },
   "ars_nouveau": {
     "mob_jar": true
   },
@@ -135,25 +178,6 @@
     "lightroom": true,
     "photograph_frame": true
   },
-  "enderio": {
-    "soul_bound": true
-  },
-  "mekanism": {
-    "chemical": true,
-    "remove_builtin": true,
-    "fluid": true,
-    "energy": true,
-    "tooltip_renderer": true
-  },
-  "quark": {
-    "oretoise_eating_cooldown": true
-  },
-  "reliquary": {
-    "pedestal": true,
-    "altar": true,
-    "mortar": true,
-    "cauldron": true
-  },
   "twilightforest": {
     "drying_rack": true,
     "chiseled_bookshelf_spawner": true,
@@ -161,21 +185,5 @@
   },
   "supplementaries": {
     "hat_stand": true
-  },
-  "neovitae": {
-    "block_info": true
-  },
-  "goety": {
-    "block_owner": true,
-    "soul_energy": true,
-    "raider_leader": true,
-    "hostile": true,
-    "servant_mode": true,
-    "capture_mode": true,
-    "zombie_villager": true,
-    "villager_profession": true,
-    "train_to": true,
-    "summon_lifespan": true,
-    "trainable": true
   }
 }

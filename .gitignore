@@ -41,3 +41,6 @@
 /dev/pakku.jar
 /dev/scripts/old/
 /emi.json
+/crash-reports/
+/dev/mods/
+/command_history.txt
