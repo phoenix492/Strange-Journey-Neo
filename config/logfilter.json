@@ -37,6 +37,13 @@
       "type": "LEVEL",
       "pattern": "ERROR",
       "action": "ALLOW"
+    },
+    {
+      "name": "Suppress OPENGL spam",
+      "enabled": true,
+      "type": "MESSAGE_REGEX",
+      "pattern": ".*GL_INVALID_OPERATION in glBlitFramebuffer.*",
+      "action": "DENY"
     }
   ]
 }
