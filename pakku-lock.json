@@ -666,48 +666,24 @@
             ]
         },
         {
-            "pakku_id": "PnsqMU1rrv5ejBIT",
+            "pakku_id": "iWXVlXKN9MZIcTvd",
+            "pakku_links": [
+                "0d2TDFLlqHfQ5avf"
+            ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "alexs-caves-unofficial-port",
-                "modrinth": "alexs-caves-(unofficial-port)"
+                "curseforge": "alexs-caves-neo"
             },
             "name": {
-                "curseforge": "Alex's Caves (Unofficial Port)",
-                "modrinth": "Alex's Caves (Unofficial Port)"
+                "curseforge": "Alex's Caves Neo"
             },
             "id": {
-                "curseforge": "1420348",
-                "modrinth": "kSsLSjEt"
+                "curseforge": "1613404"
             },
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "alexscaves-2.0.10.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/kSsLSjEt/versions/pC1MYhqR/alexscaves-2.0.10.jar",
-                    "id": "pC1MYhqR",
-                    "parent_id": "kSsLSjEt",
-                    "hashes": {
-                        "sha512": "5d933f9276ecc721ea67585e56149cbc9450c0036fc6f8a6fbed041d48ebfb8c286cd762477ef63efc2c0a186d0c5598a853002c9524c229d7f55ddee5d21651",
-                        "sha1": "366ddaac40f14cd0102f026b4d999753fc1db2a4"
-                    },
-                    "required_dependencies": [
-                        "XjY0RcQj"
-                    ],
-                    "size": 74900204,
-                    "date_published": "2026-04-25T11:42:17.770659Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "alexscaves-2.0.10.jar",
+                    "file_name": "alexscaves-2.0.2.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -715,67 +691,40 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7981/977/alexscaves-2.0.10.jar",
-                    "id": "7981977",
-                    "parent_id": "1420348",
+                    "url": "https://edge.forgecdn.net/files/8448/747/alexscaves-2.0.2.jar",
+                    "id": "8448747",
+                    "parent_id": "1613404",
                     "hashes": {
-                        "sha1": "366ddaac40f14cd0102f026b4d999753fc1db2a4",
-                        "md5": "74665c33ea59098145597e1aee139526"
+                        "sha1": "d0e18341a23e55250a1244a7fbed0b3eca8fc9e4",
+                        "md5": "72853184b303993bbc0e1e716b42ce17"
                     },
                     "required_dependencies": [
-                        "1415723"
+                        "331936"
                     ],
-                    "size": 74900204,
-                    "date_published": "2026-04-25T11:39:47.353Z"
+                    "size": 74859329,
+                    "date_published": "2026-07-17T02:59:50.680Z"
                 }
             ]
         },
         {
-            "pakku_id": "hJ2vxPWTVTv1GdN0",
+            "pakku_id": "1NMk9ASOv6z6bMPc",
             "pakku_links": [
-                "KD2rIeJceTOip6BH"
+                "0d2TDFLlqHfQ5avf"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "alexs-mobs-1-21-1-port",
-                "modrinth": "alexs-mobs(1.21.1)"
+                "curseforge": "alexs-mobs-neo"
             },
             "name": {
-                "curseforge": "Alex's Mobs (Unofficial Port)",
-                "modrinth": "Alex's Mobs (Unofficial Port)"
+                "curseforge": "Alex's Mobs Neo"
             },
             "id": {
-                "curseforge": "1415721",
-                "modrinth": "EmNhnNnt"
+                "curseforge": "1613387"
             },
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "alexsmobs-1.22.17.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/EmNhnNnt/versions/KSgki4uc/alexsmobs-1.22.17.jar",
-                    "id": "KSgki4uc",
-                    "parent_id": "EmNhnNnt",
-                    "hashes": {
-                        "sha512": "9f57f20693bb187c54f6d68dc34592b87d0e55a5a4628ad097b0aa39afe165f4a834b83b6590d803e64bac0b1230a8f46369bfe45851a3cc964cf3d88f235277",
-                        "sha1": "5070e8070f60650d773bfd9f1d031496f8f50259"
-                    },
-                    "required_dependencies": [
-                        "XjY0RcQj"
-                    ],
-                    "size": 26620546,
-                    "date_published": "2026-01-26T01:51:31.514034Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "alexsmobs-1.22.17.jar",
+                    "file_name": "alexsmobs-1.22.9.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -783,18 +732,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7528/193/alexsmobs-1.22.17.jar",
-                    "id": "7528193",
-                    "parent_id": "1415721",
+                    "url": "https://edge.forgecdn.net/files/8448/639/alexsmobs-1.22.9.jar",
+                    "id": "8448639",
+                    "parent_id": "1613387",
                     "hashes": {
-                        "sha1": "5070e8070f60650d773bfd9f1d031496f8f50259",
-                        "md5": "87970b4846bffc20123ecd267d888ee8"
+                        "sha1": "c6a76b25d63ac545a334b2c963b586dbdf82a97d",
+                        "md5": "2204b40c805628ce8924fde389cd2d86"
                     },
                     "required_dependencies": [
-                        "1415723"
+                        "331936"
                     ],
-                    "size": 26620546,
-                    "date_published": "2026-01-26T01:53:08.140Z"
+                    "size": 26353038,
+                    "date_published": "2026-07-17T02:40:24.517Z"
                 }
             ]
         },
@@ -2859,25 +2808,25 @@
             ]
         },
         {
-            "pakku_id": "KD2rIeJceTOip6BH",
+            "pakku_id": "0d2TDFLlqHfQ5avf",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "citadel-1-21-1-port",
-                "modrinth": "citadel-(1.21.1-port)"
+                "curseforge": "citadel",
+                "modrinth": "citadel"
             },
             "name": {
-                "curseforge": "Citadel (Unofficial Port)",
-                "modrinth": "Citadel (Unofficial Port)"
+                "curseforge": "Citadel",
+                "modrinth": "Citadel"
             },
             "id": {
-                "curseforge": "1415723",
-                "modrinth": "XjY0RcQj"
+                "curseforge": "331936",
+                "modrinth": "jJfV67b1"
             },
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "citadel-1.21.1-2.7.6.jar",
+                    "type": "curseforge",
+                    "file_name": "citadel-2.7.1-1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -2885,37 +2834,48 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/XjY0RcQj/versions/mIylVpkN/citadel-1.21.1-2.7.6.jar",
-                    "id": "mIylVpkN",
-                    "parent_id": "XjY0RcQj",
+                    "url": "https://edge.forgecdn.net/files/8458/935/citadel-2.7.1-1.21.1.jar",
+                    "id": "8458935",
+                    "parent_id": "331936",
                     "hashes": {
-                        "sha512": "81fd425d8910da30d9ce130213e518ed3acf6d6b63c98396668126e17f99f4d8e17348de7f6147ed3639ca59a3d3d79e1f0d78937972732fda04b7ac8a886547",
-                        "sha1": "e0392370117ec16a721f8d65728944398de77607"
+                        "sha1": "9d7873f74b418f4f83adf2ae41af75d2e8217cd6",
+                        "md5": "a7149a48de4bf66d66e2cbaf21ba717d"
                     },
                     "required_dependencies": [],
-                    "size": 3028943,
-                    "date_published": "2026-04-25T11:59:35.043189Z"
+                    "size": 3033076,
+                    "date_published": "2026-07-18T16:10:10.947Z"
                 },
                 {
-                    "type": "curseforge",
-                    "file_name": "citadel-1.21.1-2.7.6.jar",
+                    "type": "modrinth",
+                    "file_name": "citadel-2.7.1-1.21.1.jar",
                     "mc_versions": [
-                        "1.21.1"
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7982/52/citadel-1.21.1-2.7.6.jar",
-                    "id": "7982052",
-                    "parent_id": "1415723",
+                    "url": "https://cdn.modrinth.com/data/jJfV67b1/versions/ZkgKf4xj/citadel-2.7.1-1.21.1.jar",
+                    "id": "ZkgKf4xj",
+                    "parent_id": "jJfV67b1",
                     "hashes": {
-                        "sha1": "e0392370117ec16a721f8d65728944398de77607",
-                        "md5": "f489330f610335c782c61ce8815b16f1"
+                        "sha512": "e0d1988b9274a43fae5b5c77d022213143d2cb22a8e22caa8e38d13da35d5914cae3c97eefcc1f029afd9481f8db3362bb19ea8bd9ef18b809df15dc37570227",
+                        "sha1": "9d7873f74b418f4f83adf2ae41af75d2e8217cd6"
                     },
                     "required_dependencies": [],
-                    "size": 3028943,
-                    "date_published": "2026-04-25T11:58:32.843Z"
+                    "size": 3033076,
+                    "date_published": "2026-07-18T21:33:06.144816Z"
                 }
             ]
         },
@@ -7327,7 +7287,7 @@
                 "modrinth": "stone-zone"
             },
             "name": {
-                "curseforge": "Every Compat (Stone Zone)",
+                "galena_hats.jsoncurseforge": "Every Compat (Stone Zone)",
                 "modrinth": "Every Compat (Stone Zone)"
             },
             "id": {
