@@ -10753,6 +10753,83 @@
             ]
         },
         {
+            "pakku_id": "0xZKZUG2F8vrgooS",
+            "pakku_links": [
+                "xqGvi5TAN6N0Qg6r",
+                "ULU6X8GEOgigF4eE",
+                "mNhWOBqpX9YcdjxR",
+                "v6OlZdSmRmvlXlWz"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "magic-of-color",
+                "modrinth": "magic-of-color"
+            },
+            "name": {
+                "curseforge": "Magic of Color",
+                "modrinth": "Magic of Color"
+            },
+            "id": {
+                "curseforge": "1396284",
+                "modrinth": "EjTIg7n8"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "magic_of_color-1.2.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7782/881/magic_of_color-1.2.1.jar",
+                    "id": "7782881",
+                    "parent_id": "1396284",
+                    "hashes": {
+                        "sha1": "e82579c48757ae032ca1556f5edfb71cef981264",
+                        "md5": "39bebdb9a47ff797bef20a7518290535"
+                    },
+                    "required_dependencies": [
+                        "855414",
+                        "1299492",
+                        "1264556",
+                        "817423"
+                    ],
+                    "size": 100941,
+                    "date_published": "2026-03-20T00:55:07.817Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "magic_of_color-1.2.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/EjTIg7n8/versions/XxWieIYF/magic_of_color-1.2.1.jar",
+                    "id": "XxWieIYF",
+                    "parent_id": "EjTIg7n8",
+                    "hashes": {
+                        "sha512": "5187fe1a80eb7388f667a58212e7a4ab73e81e9663d348acff91f328b4858d2b597f143967845ad0baca9c43049e6c056f06a6f6d08e5de32eaaba91b1d4d04d",
+                        "sha1": "e82579c48757ae032ca1556f5edfb71cef981264"
+                    },
+                    "required_dependencies": [
+                        "7Jy4rK9m",
+                        "5lr6fnw0",
+                        "7zlUOZvb",
+                        "s4OWxYQQ"
+                    ],
+                    "size": 100941,
+                    "date_published": "2026-03-20T00:55:11.406639Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "rtBM9KovlJJFXwxI",
             "pakku_links": [
                 "cgVuLc2uoNm7tHSx",
@@ -12833,6 +12910,80 @@
             ]
         },
         {
+            "pakku_id": "mNhWOBqpX9YcdjxR",
+            "pakku_links": [
+                "2U8XUJFYl4ooCY5y",
+                "cFBRExWOXFFfYZST",
+                "ipDPdyZXFbPzZAIa",
+                "RIyrcJYECrxy4e77",
+                "iQ1fBiz8i5AzwaxW"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "pastel",
+                "modrinth": "pastel"
+            },
+            "name": {
+                "curseforge": "Pastel",
+                "modrinth": "Pastel"
+            },
+            "id": {
+                "curseforge": "1264556",
+                "modrinth": "5lr6fnw0"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Pastel-1.1.5.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7591/337/Pastel-1.1.5.5.jar",
+                    "id": "7591337",
+                    "parent_id": "1264556",
+                    "hashes": {
+                        "sha1": "53a582520b78aebd56c9be1fd041472047dca3d3",
+                        "md5": "8fa92dc280576ab9d4351ee21fe403a8"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "309927",
+                        "1108052",
+                        "538392",
+                        "1181408"
+                    ],
+                    "size": 95561784,
+                    "date_published": "2026-02-07T22:48:30.227Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Pastel-1.1.5.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5lr6fnw0/versions/GGU6zOUH/Pastel-1.1.5.5.jar",
+                    "id": "GGU6zOUH",
+                    "parent_id": "5lr6fnw0",
+                    "hashes": {
+                        "sha512": "75323c5b51ea1aa424596f115ee33301f523d1a4fae73a543e27b36c44ce1a672762ec1a01868de27bcdb735e4fb7cf2cb4b17eac1f1451f7a4151b73440c3c7",
+                        "sha1": "53a582520b78aebd56c9be1fd041472047dca3d3"
+                    },
+                    "required_dependencies": [],
+                    "size": 95561784,
+                    "date_published": "2026-02-07T22:48:21.394780Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "oJviZKYJ4dHDQgPw",
             "type": "MOD",
             "side": "BOTH",
@@ -14593,67 +14744,6 @@
             ]
         },
         {
-            "pakku_id": "KDg1wi6D0OC1a9QT",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "revelationary",
-                "modrinth": "revelationary"
-            },
-            "name": {
-                "curseforge": "Revelationary",
-                "modrinth": "Revelationary"
-            },
-            "id": {
-                "curseforge": "656526",
-                "modrinth": "eXrl5E3G"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "revelationary-neoforge-1.5.0+1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8259/338/revelationary-neoforge-1.5.0+1.21.1.jar",
-                    "id": "8259338",
-                    "parent_id": "656526",
-                    "hashes": {
-                        "sha1": "e87eb734a2e549e73b91ad1dd0cfa024208e47cd",
-                        "md5": "60b32c5000a0bea3577bd9d5a3360e26"
-                    },
-                    "required_dependencies": [],
-                    "size": 152687,
-                    "date_published": "2026-06-16T17:19:33.227Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "revelationary-neoforge-1.5.0+1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eXrl5E3G/versions/vu3TKL73/revelationary-neoforge-1.5.0+1.21.1.jar",
-                    "id": "vu3TKL73",
-                    "parent_id": "eXrl5E3G",
-                    "hashes": {
-                        "sha512": "7780f4f07bd668a5139ea80a1de1629ff70a5c24d33ad882597cdc5e4e6b58ac936818b0440cefd69e92b8284fb5e45f8b679d852c8f390942a213bc35b18e26",
-                        "sha1": "e87eb734a2e549e73b91ad1dd0cfa024208e47cd"
-                    },
-                    "required_dependencies": [],
-                    "size": 152687,
-                    "date_published": "2026-06-16T17:16:23.488519Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "CsNKCg37r0PgD04i",
             "type": "MOD",
             "side": "BOTH",
@@ -16139,80 +16229,6 @@
                     ],
                     "size": 6154450,
                     "date_published": "2026-06-24T14:37:22.167Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "5JkTnOr52T8UEtAb",
-            "pakku_links": [
-                "RIyrcJYECrxy4e77",
-                "cFBRExWOXFFfYZST",
-                "2U8XUJFYl4ooCY5y",
-                "KDg1wi6D0OC1a9QT"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "spectrum",
-                "modrinth": "spectrum"
-            },
-            "name": {
-                "curseforge": "Spectrum",
-                "modrinth": "Spectrum"
-            },
-            "id": {
-                "curseforge": "556967",
-                "modrinth": "3rc31Hgo"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "spectrum-1.12.2-1.21.1-neo.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8625/493/spectrum-1.12.2-1.21.1-neo.jar",
-                    "id": "8625493",
-                    "parent_id": "556967",
-                    "hashes": {
-                        "sha1": "39cef20f3a3727f9e5203b00766775fc29f53868",
-                        "md5": "930e3fcca60b0db1d45f271d95939f54"
-                    },
-                    "required_dependencies": [
-                        "538392",
-                        "309927",
-                        "341284",
-                        "348521",
-                        "306612",
-                        "656526"
-                    ],
-                    "size": 88598891,
-                    "date_published": "2026-08-11T17:14:15.100Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "spectrum-1.12.2-1.21.1-neo.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/3rc31Hgo/versions/R529sxrY/spectrum-1.12.2-1.21.1-neo.jar",
-                    "id": "R529sxrY",
-                    "parent_id": "3rc31Hgo",
-                    "hashes": {
-                        "sha512": "dc094351f5ee560138a2131b7f4472700e63ca026f7c9a45e4c66d5b90ea1f6accd35affeece6de3d6b99f74a8df2bc203c25111302d5d1186d4194d88e80fc2",
-                        "sha1": "39cef20f3a3727f9e5203b00766775fc29f53868"
-                    },
-                    "required_dependencies": [],
-                    "size": 88598891,
-                    "date_published": "2026-08-11T17:14:33.630958Z"
                 }
             ]
         },

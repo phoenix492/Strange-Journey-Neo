@@ -1,0 +1,21 @@
+[content_overlap]
+	#Determines the default silver (true for Caverns & Chasms, false for Oreganized)
+	"Caverns & Chasms Silver" = true
+
+[generation_tweaks]
+	#Whether to increase silver ore generation if Oreganized silver is the default
+	"More Silver" = true
+	#Generates Turquoise ores from Caverns & Chasms if enabled (very rare)
+	"Turquoise Ore Generation" = false
+
+[recipe_tweaks]
+	#If the Preserved Upgrade from Galosphere should have a duplication recipe
+	"Preserved Template Recipe" = true
+	#If Lead Bolts from Oreganized should cost less to craft
+	"Cheaper Lead Bolts" = true
+	#If Rope Ladders from Spelunkery should use the old recipe
+	"Old Rope Ladder Recipe" = false
+
+[gameplay_tweaks]
+	#Brings back the Palladium Smithing Template and old recipes for Sterling armor if enabled
+	"Old Sterling Crafing" = false
