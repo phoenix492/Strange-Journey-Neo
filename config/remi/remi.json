@@ -36,5 +36,9 @@
   "searchWidgetVerticalPadding": 2,
   "searchWidgetSuggestionTextColor": -8355712,
   "searchWidgetTextColor": -1,
-  "searchWidgetUseVanillaTexture": false
+  "searchWidgetUseVanillaTexture": false,
+  "searchById": true,
+  "searchModPrefix": true,
+  "searchTagPrefix": true,
+  "searchTooltipPrefix": true
 }

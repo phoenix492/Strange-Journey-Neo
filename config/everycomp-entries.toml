@@ -650,6 +650,9 @@
 		[entries.wood_type.tropicraft]
 			boardwalk = true
 
+		[entries.wood_type.envelope]
+			pigeonhole = true
+
 		[entries.leaves_type.quark]
 			hedge = true
 			leaf_carpet = true
