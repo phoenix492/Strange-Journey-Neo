@@ -6806,67 +6806,6 @@
             ]
         },
         {
-            "pakku_id": "jWrQz3ftOpzDWUO0",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "embers-log-filtering",
-                "modrinth": "embers-log-filtering"
-            },
-            "name": {
-                "curseforge": "Ember's Log Filtering",
-                "modrinth": "Ember's Log Filtering"
-            },
-            "id": {
-                "curseforge": "1493743",
-                "modrinth": "FQe0irLI"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "logfilter-neoforge-1.21.1-1.1.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/FQe0irLI/versions/Tn3DZPhm/logfilter-neoforge-1.21.1-1.1.1.jar",
-                    "id": "Tn3DZPhm",
-                    "parent_id": "FQe0irLI",
-                    "hashes": {
-                        "sha512": "bc2d18b29fd4073e9293fc28e9ee74afde99506e9fa4df2e6e3361e3a8dad9462e7c9265ad8656e0ab19c266b615deef0082ada97180a725dfe3e1da8705410a",
-                        "sha1": "56143382442c8d1383ba3a87de9e3eadf9f00f64"
-                    },
-                    "required_dependencies": [],
-                    "size": 24577,
-                    "date_published": "2026-07-11T02:15:26.931735Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "logfilter-neoforge-1.21.1-1.1.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8409/826/logfilter-neoforge-1.21.1-1.1.1.jar",
-                    "id": "8409826",
-                    "parent_id": "1493743",
-                    "hashes": {
-                        "sha1": "56143382442c8d1383ba3a87de9e3eadf9f00f64",
-                        "md5": "9404c2ee40e2fbda57a64a044f94f925"
-                    },
-                    "required_dependencies": [],
-                    "size": 24577,
-                    "date_published": "2026-07-11T02:15:25.317Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "XIudfrS3GJhgxgSt",
             "type": "MOD",
             "side": "BOTH",
