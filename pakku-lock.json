@@ -5608,7 +5608,7 @@
             ]
         },
         {
-            "pakku_id": "pRI6NHFNnPcMV265",
+            "pakku_id": "JyWKPduYuDexN3oX",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -5624,27 +5624,6 @@
                 "modrinth": "fXbvd6mf"
             },
             "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "cyanide-neoforge-1.21.1-5.0.0.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fXbvd6mf/versions/v4LiMGGH/cyanide-neoforge-1.21.1-5.0.0.jar",
-                    "id": "v4LiMGGH",
-                    "parent_id": "fXbvd6mf",
-                    "hashes": {
-                        "sha512": "5c28d68909ea2dd0db50d8cb25a2151c78b04dfc12023a25a9c2df2bc63dc2545f5dc417f3fdb3c2d7e74f553772e2b3c36002b4fd8ca3ffe86d8ecac373dcd0",
-                        "sha1": "d224ea5adcf1002a07bca4e19f461a9b470b2bb6"
-                    },
-                    "required_dependencies": [],
-                    "size": 49610,
-                    "date_published": "2024-10-04T13:55:51.182674Z"
-                },
                 {
                     "type": "curseforge",
                     "file_name": "cyanide-neoforge-1.21.1-5.0.0.jar",
@@ -5665,6 +5644,27 @@
                     "required_dependencies": [],
                     "size": 49610,
                     "date_published": "2024-10-04T14:02:27.403Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cyanide-neoforge-1.21.1-5.0.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fXbvd6mf/versions/v4LiMGGH/cyanide-neoforge-1.21.1-5.0.0.jar",
+                    "id": "v4LiMGGH",
+                    "parent_id": "fXbvd6mf",
+                    "hashes": {
+                        "sha512": "5c28d68909ea2dd0db50d8cb25a2151c78b04dfc12023a25a9c2df2bc63dc2545f5dc417f3fdb3c2d7e74f553772e2b3c36002b4fd8ca3ffe86d8ecac373dcd0",
+                        "sha1": "d224ea5adcf1002a07bca4e19f461a9b470b2bb6"
+                    },
+                    "required_dependencies": [],
+                    "size": 49610,
+                    "date_published": "2024-10-04T13:55:51.182674Z"
                 }
             ]
         },
@@ -7694,67 +7694,6 @@
                     ],
                     "size": 830933,
                     "date_published": "2026-04-22T10:30:22.651003Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "G3aPqr1ALVKBUkDL",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "feature-recycler",
-                "modrinth": "feature-recycler"
-            },
-            "name": {
-                "curseforge": "Feature Recycler",
-                "modrinth": "Feature Recycler"
-            },
-            "id": {
-                "curseforge": "1077985",
-                "modrinth": "IAzu52kG"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "Feature-Recycler-neoforge-2.0.0.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/IAzu52kG/versions/TsMXDaL7/Feature-Recycler-neoforge-2.0.0.jar",
-                    "id": "TsMXDaL7",
-                    "parent_id": "IAzu52kG",
-                    "hashes": {
-                        "sha512": "0909f39c1ec6f435eb2a51b95bdc4d48b2b3c31466002f0e36aec1e1315f54079faed084a440e1ef91ac267fdcedc313bd4e6dd0eac81afdd4a7a6e16db162e9",
-                        "sha1": "1c14b70c4e1341d1b92b51da684529644c0ab5cb"
-                    },
-                    "required_dependencies": [],
-                    "size": 144306,
-                    "date_published": "2024-10-21T00:03:55.547954Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "Feature-Recycler-neoforge-2.0.0.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5829/420/Feature-Recycler-neoforge-2.0.0.jar",
-                    "id": "5829420",
-                    "parent_id": "1077985",
-                    "hashes": {
-                        "sha1": "1c14b70c4e1341d1b92b51da684529644c0ab5cb",
-                        "md5": "56bd16468ad0f8ea805979e7c0a8b265"
-                    },
-                    "required_dependencies": [],
-                    "size": 144306,
-                    "date_published": "2024-10-21T00:03:36.530Z"
                 }
             ]
         },

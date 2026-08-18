@@ -42,7 +42,14 @@
       "name": "Suppress OPENGL spam",
       "enabled": true,
       "type": "MESSAGE_REGEX",
-      "pattern": ".*GL_INVALID_OPERATION in glBlitFramebuffer.*",
+      "pattern": "GL_INVALID_OPERATION in glBlitFramebuffer",
+      "action": "DENY"
+    },
+    {
+      "name": "Suppress Mob Failed Spam",
+      "enabled": true,
+      "type": "MESSAGE_REGEX",
+      "pattern": "Failed to create mob",
       "action": "DENY"
     }
   ]
