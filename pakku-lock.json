@@ -12998,6 +12998,52 @@
             ]
         },
         {
+            "pakku_id": "dlLfxZALMJ9LtfLJ",
+            "pakku_links": [
+                "FxXAWOgj2ND1YEGP"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "paxi",
+                "modrinth": "paxi"
+            },
+            "name": {
+                "curseforge": "Paxi (Forge/NeoForge)",
+                "modrinth": "Paxi"
+            },
+            "id": {
+                "curseforge": "515708",
+                "modrinth": "CU0PAyzb"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/CU0PAyzb/versions/CLZfFbCx/Paxi-1.21.1-NeoForge-5.1.3.jar",
+                    "id": "CLZfFbCx",
+                    "parent_id": "CU0PAyzb",
+                    "hashes": {
+                        "sha512": "ed6a33eb9a4ac6ce4dd0cd03a45aba6068536121ab89cd4040d8c53964d59a7a8ceaee2f3bae13a3df3813eaf8d4fc4f82883e28ac4577b53aa26b750a181699",
+                        "sha1": "7140974a26a2cd79cdc7b85ab4e834916eacc7f1"
+                    },
+                    "required_dependencies": [
+                        "Ua7DFN59"
+                    ],
+                    "size": 102980,
+                    "date_published": "2025-05-01T22:51:41.753214Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "T9FkPERckvb0jPDQ",
             "type": "MOD",
             "side": "BOTH",
