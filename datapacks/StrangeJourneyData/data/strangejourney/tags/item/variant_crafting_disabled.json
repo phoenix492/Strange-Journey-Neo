@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:stairs",
+    "#minecraft:slabs",
+    "#minecraft:slab",
+    "#minecraft:fence_gates",
+    "#minecraft:fences",
+    "#minecraft:walls",
+    "#minecraft:wool_carpets",
+    "#quark:hollow_logs",
+    "#quark:vertical_slabs",
+    "#quark:posts",
+    "#quark:hedges",
+    "#c:glass_panes",
+    "#twilightforest:banisters",
+    "#strangejourney:foliage_carpets",
+    "#strangejourney:chutes",
+    "#tropicraft:boardwalks",
+    "#decorative_blocks:beams",
+    "#decorative_blocks:supports",
+    "#decorative_blocks:palisades",
+    "alexscaves:hollow_bone",
+    "snuffles:snuffle_fluff_carpet",
+    "snuffles:frosty_fluff_carpet",
+    "securitycraft:reinforced_moss_carpet",
+    "decorative_blocks:stone_pillar"
+  ],
+  "remove": [
+    "#mekanism:colorable/carpets"
+  ]
+}

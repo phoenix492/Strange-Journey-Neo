@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "#strangejourney:mod_overlap",
+    "#strangejourney:variant_crafting_disabled",
+    "#strangejourney:chipped_blocks",
+    "#strangejourney:sequenced_assembly_intermediaries",
+    "#strangejourney:scholar_colored_books",
+    "#strangejourney:enderio_painted_blocks",
+    "#strangejourney:sophisticatedstorage_balance_disabled",
+    "#strangejourney:nomadictents_technical",
+    "#twilightforest:nyi",
+    "mekanism:creative_fluid_tank",
+    "jumbofurnace:jumbo_furnace",
+    "ae2:facade",
+    "caverns_and_chasms:oxidized_copper_golem",
+    "caverns_and_chasms:waxed_oxidized_copper_golem",
+    "securitycraft:universal_block_reinforcer_lvl1",
+    "securitycraft:universal_block_reinforcer_lvl2"
+  ]
+}

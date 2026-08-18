@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+		"immersiveengineering:chute_iron",
+		"immersiveengineering:chute_steel",
+		"immersiveengineering:chute_aluminum",
+		"immersiveengineering:chute_copper"
+  ]
+}
