@@ -4,7 +4,17 @@
   "blacklist": {
     "mixins": [],
     "mixinConfigs": ["unify.mixins.json"],
-    "targetClasses": []
+    "targetClasses": [
+      "dev.lopyluna.unify.mixin.BlockMixin",
+      "dev.lopyluna.unify.mixin.BlockStateBaseMixin",
+      "dev.lopyluna.unify.mixin.BuildCreativeModeTabContentsEventMixin",
+      "dev.lopyluna.unify.mixin.CreativeModeTabMixin",
+      "dev.lopyluna.unify.mixin.ItemMixin",
+      "dev.lopyluna.unify.mixin.ItemStackMixin",
+      "dev.lopyluna.unify.mixin.LevelChunkSectionMixin",
+      "dev.lopyluna.unify.mixin.LevelMixin",
+      "dev.lopyluna.unify.mixin.RecipeManagerMixin"
+    ]
   },
   "priorities": {
     "mixinConfigPriorities": {},
