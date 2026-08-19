@@ -1,0 +1,8 @@
+quark:azalea_leaf_carpet
+quark:flowering_azalea_leaf_carpet
+quark:blue_blossom_leaf_carpet
+quark:lavender_blossom_leaf_carpet
+quark:orange_blossom_leaf_carpet
+quark:yellow_blossom_leaf_carpet
+quark:red_blossom_leaf_carpet
+quark:ancient_leaf_carpet

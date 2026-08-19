@@ -108,6 +108,26 @@ def process(filepath, transformation_function):
 
 if __name__ == "__main__":
     variants = []
+    variants += process("VariantLists/QuarkHedges.txt", transform_quark_hedges)
+    variants += process("VariantLists/QuarkCarpets.txt", transform_quark_carpets)
+    variants += process("VariantLists/EverycompCarpets.txt", transform_everycomp_carpets)
+    variants += process("VariantLists/EverycompHedges.txt", transform_everycomp_hedges)
+    variants += process("VariantLists/EverycompQuarkHollowLogs.txt", transform_everycomp_hollow_logs)
+    variants += process("VariantLists/EverycompPosts.txt", transform_everycomp_posts)
+    variants += process("VariantLists/EverycompBoardwalks.txt", transform_everycomp_boardwalks)
+    variants += process("VariantLists/EverycompBanisters.txt", transform_everycomp_banisters)
+    variants += process("VariantLists/EverycompBeams.txt", transform_everycomp_beams)
+    variants += process("VariantLists/EverycompSupports.txt", transform_everycomp_supports)
+    variants += process("VariantLists/EverycompPalisades.txt", transform_everycomp_palisades)
+    variants += injectVanillaWoods("unique,minecraft:{wood}_leaves,quark:{wood}_leaf_carpet")
+    variants += injectVanillaWoods("unique,minecraft:{wood}_log,quark:{wood}_post")
+    variants += injectVanillaWoods("unique,minecraft:stripped_{wood}_log,quark:stripped_{wood}_post")
+    variants += injectVanillaWoods("unique2,minecraft:{wood}_log,quark:hollow_{wood}_log")
+    variants += injectVanillaWoods("unique2,minecraft:{wood}_leaves,quark:{wood}_hedge")
+    variants += injectVanillaWoods("unique2,minecraft:stripped_{wood}_log,decorative_blocks:{wood}_beam")
+    variants += injectVanillaWoods("unique2,minecraft:{wood}_planks,twilightforest:{wood}_banister")
+    variants += injectVanillaWoods("unique3,minecraft:{wood}_log,decorative_blocks:{wood}_palisade")
+    variants += injectVanillaWoods("unique4,minecraft:{wood}_planks,decorative_blocks:{wood}_support")
     variants += process("ManualVariantEntries.txt", transform_noop)
 
     quark_config = TOMLFile("../../../config/quark-common.toml")
