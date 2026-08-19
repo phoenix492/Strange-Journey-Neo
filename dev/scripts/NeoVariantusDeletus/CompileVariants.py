@@ -92,6 +92,18 @@ def transform_everycomp_palisades(variant_id):
     block = block.removesuffix("_palisade")
     return f"unique3,{modid}:{block}_log,{variant_id}"
 
+def transform_everycomp_vslabs(variant_id):
+    variant_id = variant_id.strip()
+    _, modid, block = variant_id.removeprefix("everycomp:").split('/')
+    block = block.removesuffix("_vertical_slab")
+    return f"vertical_slab,{modid}:{block}_planks,{variant_id}"
+
+def transform_stonezone_vslabs(variant_id):
+    variant_id = variant_id.strip()
+    _, modid, block = variant_id.removeprefix("everycomp:").split('/')
+    block = block.removesuffix("_vertical_slab")
+    return f"vertical_slab,{modid}:{block},{variant_id}"
+
 def transform_noop(variant_id):
     variant_id = variant_id.strip()
     return variant_id
@@ -119,6 +131,8 @@ if __name__ == "__main__":
     variants += process("VariantLists/EverycompBeams.txt", transform_everycomp_beams)
     variants += process("VariantLists/EverycompSupports.txt", transform_everycomp_supports)
     variants += process("VariantLists/EverycompPalisades.txt", transform_everycomp_palisades)
+    variants += process("VariantLists/EverycompVerticalSlabs.txt", transform_everycomp_vslabs)
+    variants += process("VariantLists/StonezoneVerticalSlabs.txt", transform_stonezone_vslabs)
     variants += injectVanillaWoods("unique,minecraft:{wood}_leaves,quark:{wood}_leaf_carpet")
     variants += injectVanillaWoods("unique,minecraft:{wood}_log,quark:{wood}_post")
     variants += injectVanillaWoods("unique,minecraft:stripped_{wood}_log,quark:stripped_{wood}_post")

@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir -p MiscItemLists
+
+grep '^everycomp:db.\+_seat$' $1 > ../MiscItemLists/EverycompSeats.txt

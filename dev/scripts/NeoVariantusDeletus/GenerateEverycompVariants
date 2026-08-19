@@ -4,6 +4,8 @@ mkdir -p VariantLists
 grep '^everycomp:q/.*_carpet$' $1 > VariantLists/EverycompCarpets.txt
 grep '^everycomp:q/.*_hedge$' $1 > VariantLists/EverycompHedges.txt
 grep '^everycomp:q/.*hollow_.*_log' $1 > VariantLists/EverycompQuarkHollowLogs.txt
+grep '^everycomp:q/.*_vertical_slab' $1 > VariantLists/EverycompVerticalSlabs.txt
+grep '^stonezone:q/.*_vertical_slab' $1 > VariantLists/StonezoneVerticalSlabs.txt
 grep '^everycomp:q/.*/.*_post' $1 > VariantLists/EverycompPosts.txt
 grep '^everycomp:tc/.*/.*_boardwalk' $1 > VariantLists/EverycompBoardwalks.txt
 grep '^everycomp:tf/.*/.*_banister' $1 > VariantLists/EverycompBanisters.txt
