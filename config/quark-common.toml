@@ -1822,7 +1822,7 @@
 	#Allows placing variant blocks automatically via a selector menu triggered from a keybind
 	[experimental.variant_selector]
 		#Set this to true to automatically convert any dropped variant items into their originals. Do this ONLY if you intend to take control of every recipe via a data pack or equivalent, as this will introduce dupes otherwise.
-		"Convert Variant Items" = false
+		"Convert Variant Items" = true
 		#Enable the hammer, allowing variants to be swapped between eachother, including the original block. Do this ONLY under the same circumstances as Convert Variant Items.
 		"Enable Hammer" = false
 		"Show Tooltip" = true
