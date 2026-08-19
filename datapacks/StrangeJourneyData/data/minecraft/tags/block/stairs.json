@@ -1,0 +1,12 @@
+{
+  "replace": "false",
+  "values": [],
+  "remove": [
+    "createdeco:zinc_hull",
+    "createdeco:brass_hull",
+    "createdeco:iron_hull",
+    "createdeco:andesite_hull",
+    "createdeco:copper_hull",
+    "createdeco:industrial_iron_hull"
+  ]
+}

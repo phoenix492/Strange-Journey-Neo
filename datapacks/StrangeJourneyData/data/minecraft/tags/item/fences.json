@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "cataclysm:prismarine_brick_fence",
+    "cataclysm:azure_seastone_fence",
+    "cataclysm:black_steel_fence",
+    "netherexp:claret_fence",
+    "netherexp:polished_blackstone_fence",
+    "immersiveengineering:treated_fence",
+    "eidolon:polished_planks_fence",
+    "eidolon:illwood_planks_fence",
+    "hexcasting:edified_fence",
+    "dimdoors:driftwood_fence",
+    "dimdoors:gravel_fence",
+    "dimdoors:dark_sand_fence",
+    "dimdoors:clay_fence",
+    "dimdoors:mud_fence",
+    "dimdoors:unraveled_fence",
+    "dimdoors:netherrack_fence",
+    "enchanted:alder_fence",
+    "enchanted:hawthorn_fence",
+    "enchanted:rowan_fence"
+  ]
+}
