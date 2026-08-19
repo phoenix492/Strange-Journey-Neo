@@ -10521,6 +10521,99 @@
             ]
         },
         {
+            "pakku_id": "N8TDtmlLlBkKkluA",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "lmft",
+                "modrinth": "lmft"
+            },
+            "name": {
+                "curseforge": "Load My F***ing Tags",
+                "modrinth": "Load My F***ing Tags"
+            },
+            "id": {
+                "curseforge": "656346",
+                "modrinth": "67kVxsaO"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lmft-1.1.1+1.21.9-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.2-Snapshot",
+                        "1.21",
+                        "1.21.6-snapshot",
+                        "1.21.5",
+                        "1.21.8",
+                        "1.21.1-Snapshot",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.4",
+                        "1.21.5-Snapshot",
+                        "1.21-Snapshot",
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21.1",
+                        "1.21.6",
+                        "1.21.4-Snapshot",
+                        "1.21.2",
+                        "1.21.9-snapshot"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7084/444/lmft-1.1.1+1.21.9-neoforge.jar",
+                    "id": "7084444",
+                    "parent_id": "656346",
+                    "hashes": {
+                        "sha1": "492d597ca216f9d099be112e77a9a5c7ed138770",
+                        "md5": "bbce0f41ed77cdec33fe68dd05c1ceff"
+                    },
+                    "required_dependencies": [],
+                    "size": 78624,
+                    "date_published": "2025-10-08T21:52:34.067Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "lmft-1.1.1+1.21.9-neoforge.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/poGMd0AE/lmft-1.1.1+1.21.9-neoforge.jar",
+                    "id": "poGMd0AE",
+                    "parent_id": "67kVxsaO",
+                    "hashes": {
+                        "sha512": "e8fcbeae565ea05ca78e6aeebe3c1ef539039bcd25b57f9842e3025de2e35d295317af6c842f57d0969918fe5aed80032fb68f0f98a81bbec84450408b3ac0e6",
+                        "sha1": "492d597ca216f9d099be112e77a9a5c7ed138770"
+                    },
+                    "required_dependencies": [],
+                    "size": 78624,
+                    "date_published": "2025-10-08T22:06:50.914361Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "cgVuLc2uoNm7tHSx",
             "type": "MOD",
             "side": "BOTH",

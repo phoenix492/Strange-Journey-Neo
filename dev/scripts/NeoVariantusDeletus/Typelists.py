@@ -1,0 +1,1 @@
+/home/pieman492/SSDInstancesPrism/Strange Kitchen Sink/.minecraft/DevScripts/Typelists.py
