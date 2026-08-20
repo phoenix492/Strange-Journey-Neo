@@ -4,7 +4,7 @@
 
 [generation_tweaks]
 	#Whether to increase silver ore generation if Oreganized silver is the default
-	"More Silver" = true
+	"More Silver" = false
 	#Generates Turquoise ores from Caverns & Chasms if enabled (very rare)
 	"Turquoise Ore Generation" = false
 
