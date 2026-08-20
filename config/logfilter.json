@@ -3,42 +3,6 @@
   "enabled": true,
   "rules": [
     {
-      "name": "Suppress OpenAL info spam",
-      "enabled": false,
-      "type": "LOGGER_NAME",
-      "pattern": "org.lwjgl.openal",
-      "action": "DENY"
-    },
-    {
-      "name": "Suppress advancement loading",
-      "enabled": false,
-      "type": "MESSAGE_REGEX",
-      "pattern": "Loaded \\d+ advancements",
-      "action": "DENY"
-    },
-    {
-      "name": "Suppress DEBUG from server level",
-      "enabled": false,
-      "type": "LOGGER_NAME",
-      "pattern": "net.minecraft.server.level",
-      "action": "DENY",
-      "level": "DEBUG"
-    },
-    {
-      "name": "Suppress recipe loading messages",
-      "enabled": false,
-      "type": "MESSAGE_REGEX",
-      "pattern": "Loaded \\d+ recipes",
-      "action": "DENY"
-    },
-    {
-      "name": "Always allow error messages",
-      "enabled": false,
-      "type": "LEVEL",
-      "pattern": "ERROR",
-      "action": "ALLOW"
-    },
-    {
       "name": "Suppress OPENGL spam",
       "enabled": true,
       "type": "MESSAGE_REGEX",
@@ -53,7 +17,7 @@
       "action": "DENY"
     },
     {
-      "name": "",
+      "name": "Suppress malum invalid config correction message",
       "enabled": true,
       "type": "MESSAGE_REGEX",
       "pattern": "malum-client.toml is not correct. Correcting",

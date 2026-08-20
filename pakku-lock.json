@@ -6806,6 +6806,67 @@
             ]
         },
         {
+            "pakku_id": "TeQnLoAp61t3DIoO",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "embers-log-filtering",
+                "modrinth": "embers-log-filtering"
+            },
+            "name": {
+                "curseforge": "Ember's Log Filtering",
+                "modrinth": "Ember's Log Filtering"
+            },
+            "id": {
+                "curseforge": "1493743",
+                "modrinth": "FQe0irLI"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "logfilter-neoforge-1.21.1-1.1.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8673/352/logfilter-neoforge-1.21.1-1.1.2.jar",
+                    "id": "8673352",
+                    "parent_id": "1493743",
+                    "hashes": {
+                        "sha1": "bdcd27111335538d12eaf4550f04254e9355c58c",
+                        "md5": "8790c4ec5d2327a3864cfbe517f3fd51"
+                    },
+                    "required_dependencies": [],
+                    "size": 26633,
+                    "date_published": "2026-08-17T23:24:16.150Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "logfilter-neoforge-1.21.1-1.1.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/FQe0irLI/versions/rxiqkrkD/logfilter-neoforge-1.21.1-1.1.2.jar",
+                    "id": "rxiqkrkD",
+                    "parent_id": "FQe0irLI",
+                    "hashes": {
+                        "sha512": "e90a93a04697839b651f2bd5b7456ed55bc1af8d427526d1a35beaf215c54cddf0e6032fbc9c46f2301860b44019c503f1471742f613d3c516e0806518282b83",
+                        "sha1": "bdcd27111335538d12eaf4550f04254e9355c58c"
+                    },
+                    "required_dependencies": [],
+                    "size": 26633,
+                    "date_published": "2026-08-17T23:24:17.163461Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "XIudfrS3GJhgxgSt",
             "type": "MOD",
             "side": "BOTH",
