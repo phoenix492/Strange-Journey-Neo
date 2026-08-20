@@ -1,8 +1,285 @@
 {
   "config_version": "1.0.4",
-  "config_datetime": "2026-08-04_23-19-02",
+  "config_datetime": "2026-08-19_20-03-42",
   "global": {
     "disable_all_placed_features": false
   },
-  "placed_features": []
+  "placed_features": [
+    {
+      "name": "caverns_and_chasms:ore_gold_and_silver_lower",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_gold_buried_with_silver",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_silver_buried",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_silver_buried_with_gold",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_silver_extra",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_silver_soul",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_tin",
+      "is_disabled": true
+    },
+    {
+      "name": "create_new_age:thorium_ore",
+      "is_disabled": true
+    },
+    {
+      "name": "eidolon_repraised:lead_ore_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "eidolon_repraised:silver_ore_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "embers:ore_lead_placer",
+      "is_disabled": true
+    },
+    {
+      "name": "embers:ore_silver_placer",
+      "is_disabled": true
+    },
+    {
+      "name": "galosphere:ore_silver_large",
+      "is_disabled": true
+    },
+    {
+      "name": "galosphere:ore_silver_small",
+      "is_disabled": true
+    },
+    {
+      "name": "iceandfire:silver_ore",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveengineering:bauxite",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveengineering:deep_nickel",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveengineering:lead",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveengineering:nickel",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveengineering:silver",
+      "is_disabled": true
+    },
+    {
+      "name": "immersiveengineering:uranium",
+      "is_disabled": true
+    },
+    {
+      "name": "integrated_mining:more_silver",
+      "is_disabled": true
+    },
+    {
+      "name": "integrated_mining:more_silver_extra",
+      "is_disabled": true
+    },
+    {
+      "name": "integrated_mining:more_silver_extra_spelunkery",
+      "is_disabled": true
+    },
+    {
+      "name": "integrated_mining:more_silver_spelunkery",
+      "is_disabled": true
+    },
+    {
+      "name": "integrated_mining:ore_gold_and_silver_buried_spelunkery",
+      "is_disabled": true
+    },
+    {
+      "name": "integrated_mining:ore_gold_buried_with_silver_spelunkery",
+      "is_disabled": true
+    },
+    {
+      "name": "integrated_mining:ore_silver_buried_spelunkery",
+      "is_disabled": true
+    },
+    {
+      "name": "integrated_mining:ore_silver_buried_with_gold_spelunkery",
+      "is_disabled": true
+    },
+    {
+      "name": "integrated_mining:ore_silver_spelunkery",
+      "is_disabled": true
+    },
+    {
+      "name": "integrated_mining:ore_tin",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_lead_normal",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_lead_normal_retrogen",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_osmium_middle",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_osmium_middle_retrogen",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_osmium_small",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_osmium_small_retrogen",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_osmium_upper",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_osmium_upper_retrogen",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_tin_large",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_tin_large_retrogen",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_tin_small",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_tin_small_retrogen",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_uranium_buried",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_uranium_buried_retrogen",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_uranium_small",
+      "is_disabled": true
+    },
+    {
+      "name": "mekanism:ore_uranium_small_retrogen",
+      "is_disabled": true
+    },
+    {
+      "name": "nuclearcraftneohaul:lead_placed_large",
+      "is_disabled": true
+    },
+    {
+      "name": "nuclearcraftneohaul:lead_placed_small",
+      "is_disabled": true
+    },
+    {
+      "name": "nuclearcraftneohaul:lithium_placed_large",
+      "is_disabled": true
+    },
+    {
+      "name": "nuclearcraftneohaul:lithium_placed_small",
+      "is_disabled": true
+    },
+    {
+      "name": "nuclearcraftneohaul:thorium_placed_large",
+      "is_disabled": true
+    },
+    {
+      "name": "nuclearcraftneohaul:thorium_placed_small",
+      "is_disabled": true
+    },
+    {
+      "name": "nuclearcraftneohaul:tin_placed_large",
+      "is_disabled": true
+    },
+    {
+      "name": "nuclearcraftneohaul:tin_placed_small",
+      "is_disabled": true
+    },
+    {
+      "name": "nuclearcraftneohaul:uranium_placed_large",
+      "is_disabled": true
+    },
+    {
+      "name": "nuclearcraftneohaul:uranium_placed_small",
+      "is_disabled": true
+    },
+    {
+      "name": "occultism:ore_silver",
+      "is_disabled": true
+    },
+    {
+      "name": "occultism:ore_silver_deepslate",
+      "is_disabled": true
+    },
+    {
+      "name": "oreganized:lead_ore",
+      "is_disabled": true
+    },
+    {
+      "name": "oreganized:lead_ore_extra",
+      "is_disabled": true
+    },
+    {
+      "name": "oreganized:silver_ore",
+      "is_disabled": true
+    },
+    {
+      "name": "oreganized:silver_ore_extra",
+      "is_disabled": true
+    },
+    {
+      "name": "oritech:ore_nickel",
+      "is_disabled": true
+    },
+    {
+      "name": "oritech:ore_platinum",
+      "is_disabled": true
+    },
+    {
+      "name": "oritech:ore_platinum_end",
+      "is_disabled": true
+    },
+    {
+      "name": "oritech:uranium_patch",
+      "is_disabled": true
+    },
+    {
+      "name": "tfmg:lead_ore",
+      "is_disabled": true
+    },
+    {
+      "name": "tfmg:nickel_ore",
+      "is_disabled": true
+    }
+  ]
 }
